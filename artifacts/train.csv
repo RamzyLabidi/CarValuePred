@@ -1,801 +1,576 @@
-gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
-female,group D,master's degree,standard,none,62,70,75
-female,group C,bachelor's degree,free/reduced,completed,66,83,83
-female,group D,some college,free/reduced,none,79,89,86
-male,group C,master's degree,free/reduced,none,61,67,66
-male,group E,high school,standard,none,73,64,57
-male,group B,high school,free/reduced,none,30,24,15
-female,group C,bachelor's degree,standard,completed,96,100,100
-female,group C,associate's degree,standard,completed,57,77,80
-male,group D,high school,standard,completed,68,64,66
-female,group C,some high school,free/reduced,none,48,58,52
-male,group B,some high school,standard,none,67,64,61
-female,group C,some college,free/reduced,none,59,62,64
-male,group E,some high school,standard,completed,74,64,60
-female,group C,some high school,standard,none,65,69,76
-female,group B,some college,standard,none,62,67,67
-male,group C,associate's degree,standard,none,47,37,35
-male,group D,associate's degree,standard,none,80,63,63
-male,group C,high school,standard,none,68,60,53
-female,group D,some college,standard,completed,79,84,91
-male,group D,high school,standard,none,89,87,79
-male,group A,some college,standard,none,69,67,69
-female,group E,some college,free/reduced,none,53,58,57
-female,group C,some college,standard,completed,64,82,77
-male,group C,high school,standard,completed,82,84,82
-male,group B,high school,free/reduced,none,36,29,27
-female,group B,master's degree,standard,none,90,95,93
-female,group D,master's degree,standard,none,64,63,66
-female,group B,bachelor's degree,standard,none,52,65,69
-female,group D,some high school,free/reduced,none,67,84,84
-male,group C,associate's degree,standard,completed,51,60,58
-male,group D,some college,standard,none,79,73,67
-male,group A,high school,standard,none,63,63,62
-female,group D,associate's degree,free/reduced,none,52,59,56
-male,group A,associate's degree,free/reduced,completed,40,55,53
-male,group D,some college,standard,none,40,42,38
-female,group B,some college,standard,none,63,65,61
-male,group C,associate's degree,standard,none,46,43,42
-female,group C,some high school,free/reduced,completed,65,76,75
-female,group B,some high school,standard,none,62,64,66
-male,group B,associate's degree,standard,none,90,78,81
-male,group A,associate's degree,free/reduced,none,47,57,44
-male,group C,some college,standard,none,59,41,42
-female,group B,master's degree,free/reduced,completed,77,97,94
-female,group C,associate's degree,standard,none,52,55,57
-male,group E,some college,standard,completed,99,87,81
-female,group B,some high school,standard,none,70,64,72
-male,group C,associate's degree,free/reduced,none,64,66,59
-male,group A,bachelor's degree,standard,completed,80,78,81
-male,group D,high school,free/reduced,none,42,39,34
-male,group E,associate's degree,standard,completed,97,82,88
-male,group A,some college,free/reduced,completed,50,47,54
-female,group B,some high school,standard,completed,65,82,78
-female,group C,master's degree,free/reduced,none,52,65,61
-female,group E,associate's degree,standard,none,59,62,69
-male,group B,some high school,standard,none,74,63,57
-female,group C,some high school,free/reduced,none,43,53,53
-female,group B,high school,free/reduced,completed,67,78,79
-male,group E,bachelor's degree,standard,completed,100,100,100
-male,group D,high school,standard,none,72,66,66
-female,group B,associate's degree,standard,none,71,83,78
-male,group A,some high school,free/reduced,none,55,46,43
-female,group C,some college,standard,none,84,87,91
-female,group E,some college,standard,completed,63,72,70
-female,group C,bachelor's degree,standard,none,63,75,81
-female,group C,some college,free/reduced,completed,42,66,69
-male,group E,associate's degree,free/reduced,completed,78,74,72
-male,group E,some college,standard,none,69,60,54
-female,group B,associate's degree,standard,none,80,86,83
-male,group B,high school,standard,none,79,60,65
-male,group C,associate's degree,standard,completed,87,100,95
-female,group A,associate's degree,free/reduced,none,65,85,76
-female,group D,some high school,standard,none,51,63,61
-male,group D,master's degree,standard,none,85,84,89
-male,group A,some high school,standard,completed,47,49,49
-male,group C,master's degree,free/reduced,none,54,59,50
-female,group B,high school,free/reduced,none,38,60,50
-male,group C,some high school,free/reduced,completed,59,69,65
-male,group D,high school,free/reduced,none,60,57,51
-male,group B,high school,free/reduced,none,49,45,45
-female,group C,associate's degree,standard,completed,52,59,62
-female,group C,bachelor's degree,free/reduced,none,44,63,62
-female,group E,associate's degree,free/reduced,none,70,84,81
-male,group C,associate's degree,standard,none,84,80,80
-male,group C,associate's degree,standard,none,76,70,68
-male,group C,some college,free/reduced,none,35,28,27
-female,group C,associate's degree,standard,completed,96,96,99
-female,group D,some college,standard,none,80,90,89
-male,group B,associate's degree,standard,none,81,73,72
-male,group D,high school,standard,none,57,50,54
-male,group E,high school,standard,none,94,73,71
-male,group B,high school,standard,none,82,82,80
-male,group D,high school,standard,none,70,70,70
-female,group B,associate's degree,standard,completed,94,87,92
-male,group A,bachelor's degree,standard,completed,75,58,62
-female,group C,some college,standard,none,52,58,58
-female,group A,high school,free/reduced,completed,77,88,85
-male,group D,some college,free/reduced,none,70,63,58
-male,group A,some high school,free/reduced,none,65,59,53
-male,group B,some college,free/reduced,none,40,43,39
-female,group C,some college,standard,completed,70,89,88
-male,group D,associate's degree,free/reduced,completed,79,82,80
-female,group C,some college,standard,completed,67,81,79
-male,group C,some college,free/reduced,none,68,68,61
-female,group D,master's degree,free/reduced,completed,47,58,67
-female,group A,some college,standard,completed,72,79,82
-female,group E,high school,free/reduced,completed,57,75,73
-female,group C,bachelor's degree,standard,none,83,93,95
-male,group A,some college,standard,completed,61,51,52
-male,group C,associate's degree,standard,completed,98,87,90
-female,group D,master's degree,free/reduced,completed,61,71,78
-female,group C,bachelor's degree,standard,completed,92,100,99
-female,group C,associate's degree,standard,completed,68,67,73
-female,group E,some high school,standard,none,77,79,80
-male,group C,some college,standard,none,66,59,52
-male,group B,high school,standard,none,47,46,42
-male,group C,some college,free/reduced,none,65,58,49
-male,group A,some high school,free/reduced,none,68,72,64
-female,group C,some college,standard,completed,63,78,80
-female,group D,high school,free/reduced,none,73,92,84
-female,group C,high school,free/reduced,none,42,62,60
-female,group E,master's degree,standard,none,62,68,68
-female,group D,bachelor's degree,standard,completed,68,75,81
-female,group C,associate's degree,standard,completed,67,84,81
-male,group D,some college,free/reduced,none,49,57,46
-female,group C,some college,free/reduced,none,35,44,43
-male,group A,high school,standard,none,68,70,66
-female,group B,high school,standard,completed,69,76,74
-male,group C,high school,standard,none,70,74,71
-female,group E,some high school,standard,completed,80,85,85
-female,group C,some college,standard,completed,75,81,84
-female,group D,some college,standard,none,63,64,67
-male,group B,bachelor's degree,standard,none,66,60,57
-female,group B,some high school,free/reduced,completed,74,90,88
-female,group C,some high school,standard,completed,44,51,55
-female,group B,bachelor's degree,standard,none,72,72,74
-female,group D,master's degree,standard,completed,77,82,91
-male,group D,high school,standard,none,46,34,36
-male,group C,high school,standard,completed,72,67,64
-male,group B,associate's degree,standard,completed,82,84,78
-male,group E,associate's degree,standard,completed,62,61,58
-male,group D,associate's degree,standard,none,80,68,72
-female,group C,high school,standard,none,54,59,62
-female,group D,some college,standard,none,79,86,81
-female,group B,high school,standard,none,87,95,86
-female,group C,some high school,standard,completed,65,74,77
-female,group C,associate's degree,free/reduced,completed,82,93,93
-female,group B,associate's degree,standard,none,40,48,50
-female,group D,bachelor's degree,free/reduced,completed,93,100,100
-female,group C,bachelor's degree,standard,none,65,72,74
-male,group D,some high school,standard,completed,77,68,69
-female,group C,some college,free/reduced,none,46,64,66
-male,group B,some college,standard,completed,88,85,76
-female,group E,some high school,free/reduced,none,32,34,38
-female,group C,associate's degree,standard,none,39,64,57
-male,group D,some high school,standard,none,86,73,70
-male,group C,some high school,free/reduced,completed,53,37,40
-male,group A,some college,free/reduced,completed,81,78,81
-male,group B,some college,free/reduced,none,41,39,34
-male,group C,some college,standard,none,61,61,62
-male,group D,some college,standard,none,88,73,78
-female,group A,some high school,standard,completed,59,85,80
-female,group D,some high school,standard,none,81,97,96
-male,group C,bachelor's degree,standard,none,58,55,48
-female,group C,some college,free/reduced,completed,64,85,85
-female,group E,master's degree,standard,none,81,92,91
-male,group C,high school,standard,none,70,70,65
-female,group C,bachelor's degree,free/reduced,none,62,78,79
-male,group D,some college,standard,completed,77,62,62
-female,group D,high school,standard,none,62,64,64
-female,group E,some college,standard,none,87,85,93
-female,group C,some college,free/reduced,completed,67,75,70
-male,group A,bachelor's degree,free/reduced,none,62,72,65
-female,group D,some high school,standard,none,76,72,71
-female,group C,associate's degree,standard,none,63,67,70
-female,group B,some college,standard,completed,88,95,92
-male,group D,associate's degree,standard,none,72,79,74
-female,group D,master's degree,standard,none,55,64,70
-male,group C,some high school,free/reduced,none,61,57,56
-male,group D,bachelor's degree,free/reduced,none,50,42,48
-male,group E,some high school,standard,completed,87,84,76
-male,group B,some college,standard,none,54,52,51
-female,group C,some college,free/reduced,none,22,39,33
-male,group D,high school,free/reduced,none,66,74,69
-male,group C,bachelor's degree,standard,completed,83,82,84
-female,group D,high school,standard,completed,56,68,74
-female,group B,associate's degree,free/reduced,none,54,65,65
-female,group D,master's degree,standard,none,74,79,82
-male,group E,some college,free/reduced,completed,87,74,70
-male,group E,high school,free/reduced,completed,86,81,75
-male,group B,some college,standard,none,66,65,60
-male,group C,associate's degree,free/reduced,completed,65,67,65
-female,group C,associate's degree,standard,none,58,73,68
-female,group C,associate's degree,standard,completed,75,82,90
-female,group B,associate's degree,free/reduced,none,52,76,70
-female,group C,some college,standard,none,54,64,65
-female,group E,associate's degree,standard,completed,82,85,86
-female,group C,some high school,standard,none,63,73,68
-female,group A,some high school,free/reduced,none,59,73,69
-male,group E,bachelor's degree,free/reduced,completed,70,68,72
-female,group C,high school,free/reduced,completed,59,71,65
-male,group D,bachelor's degree,free/reduced,completed,74,71,80
-male,group A,high school,free/reduced,completed,72,67,65
-male,group A,associate's degree,standard,completed,97,92,86
-female,group C,some high school,standard,none,47,54,53
-male,group D,master's degree,standard,none,95,81,84
-female,group C,some high school,standard,none,49,63,56
-male,group E,associate's degree,free/reduced,none,64,56,52
-female,group B,some high school,free/reduced,none,24,38,27
-male,group E,associate's degree,free/reduced,completed,77,69,68
-male,group B,bachelor's degree,free/reduced,none,55,59,54
-female,group D,some college,standard,none,74,89,84
-male,group D,high school,free/reduced,none,69,70,67
-female,group B,master's degree,standard,none,77,90,84
-male,group D,high school,standard,none,76,73,68
-male,group D,bachelor's degree,free/reduced,completed,61,70,76
-male,group C,some college,standard,completed,93,84,90
-male,group B,high school,standard,none,62,55,54
-male,group A,bachelor's degree,standard,none,64,60,58
-female,group D,some high school,standard,completed,66,78,78
-male,group C,high school,standard,completed,86,81,80
-male,group C,master's degree,free/reduced,completed,46,42,46
-female,group B,associate's degree,free/reduced,completed,76,94,87
-male,group A,high school,standard,none,59,52,46
-male,group B,high school,free/reduced,none,63,48,47
-female,group A,some high school,free/reduced,none,47,59,50
-male,group C,bachelor's degree,free/reduced,none,61,66,61
-male,group E,associate's degree,standard,none,72,64,63
-male,group A,some high school,free/reduced,none,39,39,34
-male,group E,some college,standard,none,86,76,74
-female,group D,associate's degree,free/reduced,none,47,53,58
-male,group B,associate's degree,standard,completed,81,82,82
-female,group B,high school,standard,none,58,62,59
-female,group C,some college,standard,none,59,71,70
-female,group D,bachelor's degree,standard,none,79,89,89
-female,group C,some high school,free/reduced,none,65,86,80
-female,group B,high school,standard,none,65,81,73
-female,group E,high school,standard,none,50,50,47
-female,group A,some high school,free/reduced,none,44,64,58
-female,group E,bachelor's degree,standard,completed,71,70,70
-female,group C,high school,standard,none,60,68,72
-male,group D,some high school,standard,none,86,80,75
-female,group C,some college,standard,none,53,62,56
-female,group D,bachelor's degree,standard,none,89,100,100
-female,group A,associate's degree,standard,completed,65,70,74
-male,group E,some high school,free/reduced,completed,78,83,80
-female,group D,bachelor's degree,free/reduced,none,63,73,78
-female,group C,high school,standard,none,75,88,85
-female,group B,high school,free/reduced,completed,46,54,58
-female,group C,some high school,free/reduced,completed,50,60,60
-female,group C,associate's degree,standard,completed,65,84,84
-female,group C,associate's degree,standard,none,65,76,76
-male,group E,associate's degree,free/reduced,none,90,90,82
-male,group C,associate's degree,standard,completed,57,54,56
-male,group C,high school,standard,none,52,53,49
-female,group B,high school,standard,none,65,64,62
-male,group D,some high school,standard,none,84,84,80
-female,group C,associate's degree,standard,completed,62,76,80
-male,group D,associate's degree,standard,completed,81,72,77
-male,group E,associate's degree,free/reduced,none,46,43,41
-male,group D,associate's degree,standard,none,71,66,60
-male,group C,some high school,standard,none,49,49,41
-female,group D,some college,standard,none,51,58,54
-female,group D,high school,standard,none,69,77,73
-female,group D,some high school,free/reduced,none,48,54,53
-male,group E,some high school,free/reduced,completed,73,67,59
-male,group C,some college,standard,completed,98,86,90
-female,group E,bachelor's degree,standard,completed,99,100,100
-male,group C,associate's degree,standard,none,74,73,67
-male,group E,some college,standard,none,68,60,59
-male,group D,associate's degree,free/reduced,none,53,54,48
-male,group D,associate's degree,standard,completed,87,84,85
-male,group C,high school,standard,none,71,79,71
-male,group C,some college,free/reduced,completed,67,74,70
-female,group D,some high school,standard,none,73,86,82
-male,group D,some high school,standard,completed,76,70,69
-female,group A,some high school,free/reduced,none,44,45,45
-female,group C,high school,free/reduced,none,35,53,46
-male,group C,bachelor's degree,free/reduced,completed,70,75,74
-male,group C,some high school,standard,none,75,72,62
-female,group E,high school,standard,none,74,76,73
-female,group C,some college,standard,none,58,59,66
-female,group B,some college,standard,none,79,86,92
-male,group D,associate's degree,standard,none,40,52,43
-female,group B,high school,free/reduced,none,50,67,63
-female,group E,associate's degree,standard,completed,79,88,94
-male,group B,some college,free/reduced,completed,59,65,66
-female,group B,associate's degree,standard,none,53,58,65
-female,group B,some high school,standard,none,41,55,51
-female,group B,master's degree,free/reduced,completed,58,76,78
-female,group D,some college,free/reduced,completed,59,78,76
-male,group D,some college,standard,none,81,82,84
-male,group A,some high school,standard,none,53,54,48
-male,group D,some college,standard,none,55,58,52
-male,group B,some college,standard,none,79,67,67
-male,group C,bachelor's degree,standard,none,86,83,86
-female,group B,master's degree,free/reduced,completed,52,70,62
-male,group A,some high school,free/reduced,none,79,82,73
-male,group C,bachelor's degree,standard,completed,71,74,68
-male,group B,high school,standard,none,59,58,47
-female,group B,high school,free/reduced,none,64,73,71
-female,group D,high school,standard,none,67,72,74
-female,group C,associate's degree,standard,completed,71,77,77
-male,group A,high school,free/reduced,none,48,45,41
-female,group A,some college,standard,none,69,84,82
-male,group E,some high school,standard,completed,89,84,77
-female,group A,some college,standard,none,56,58,64
-male,group B,some college,standard,completed,62,66,68
-female,group E,some high school,free/reduced,none,38,49,45
-male,group C,some college,standard,none,84,87,81
-male,group E,some college,standard,none,68,72,65
-male,group C,associate's degree,standard,completed,78,77,77
-male,group E,bachelor's degree,standard,completed,85,66,71
-female,group B,some college,free/reduced,none,61,68,66
-female,group C,some high school,standard,none,69,75,78
-female,group C,high school,free/reduced,none,41,46,43
-female,group D,some college,free/reduced,completed,52,59,65
-female,group C,some high school,free/reduced,none,55,65,62
-female,group D,some high school,standard,completed,97,100,100
-female,group A,some college,standard,completed,78,87,91
-male,group D,some college,standard,none,44,54,53
-male,group A,associate's degree,standard,none,63,61,61
-female,group C,some college,free/reduced,completed,63,73,71
-female,group E,master's degree,free/reduced,none,81,86,87
-male,group C,high school,free/reduced,none,58,61,52
-female,group C,high school,standard,none,61,72,70
-male,group B,bachelor's degree,free/reduced,completed,87,90,88
-female,group B,high school,standard,completed,77,82,89
-female,group B,associate's degree,standard,none,57,69,68
-male,group D,some college,standard,none,67,64,70
-male,group C,associate's degree,free/reduced,completed,43,45,50
-female,group B,associate's degree,free/reduced,none,53,70,70
-male,group B,associate's degree,free/reduced,none,61,58,56
-male,group C,high school,free/reduced,completed,58,51,52
-female,group B,some high school,standard,none,37,46,46
-female,group D,some high school,free/reduced,completed,40,65,64
-male,group C,some high school,standard,none,73,66,66
-male,group D,bachelor's degree,standard,none,54,49,47
-male,group B,associate's degree,free/reduced,none,44,41,38
-female,group B,associate's degree,free/reduced,completed,68,77,80
-male,group D,some college,free/reduced,none,69,66,60
-male,group B,some high school,free/reduced,none,48,52,45
-male,group C,some college,standard,none,58,49,42
-male,group D,bachelor's degree,free/reduced,none,63,66,67
-female,group C,associate's degree,free/reduced,none,60,75,74
-female,group D,bachelor's degree,standard,none,78,82,79
-male,group A,some high school,free/reduced,completed,61,62,61
-male,group D,some high school,free/reduced,none,62,49,52
-male,group C,high school,standard,none,62,67,58
-male,group A,some high school,standard,none,71,62,50
-male,group B,some high school,standard,none,72,68,67
-female,group B,bachelor's degree,free/reduced,none,75,85,82
-female,group D,some high school,standard,none,59,67,61
-female,group D,associate's degree,standard,none,77,77,73
-male,group D,associate's degree,standard,none,52,55,49
-female,group C,some college,standard,completed,71,71,80
-female,group C,bachelor's degree,standard,completed,52,61,66
-female,group D,some high school,standard,none,73,84,85
-female,group D,associate's degree,standard,completed,88,92,95
-female,group A,associate's degree,standard,completed,55,65,62
-male,group E,associate's degree,standard,none,87,74,76
-male,group D,associate's degree,standard,none,61,55,52
-female,group D,some college,free/reduced,none,77,86,86
-male,group B,some college,standard,none,58,50,45
-male,group C,associate's degree,standard,none,92,79,84
-female,group E,high school,standard,none,99,93,90
-female,group B,associate's degree,standard,none,73,83,76
-female,group B,some college,standard,completed,50,64,66
-female,group C,associate's degree,standard,completed,74,75,83
-female,group C,high school,standard,none,61,73,63
-male,group A,some high school,standard,completed,66,68,64
-male,group E,associate's degree,free/reduced,completed,100,100,93
-male,group E,some college,standard,none,83,80,73
-female,group E,some high school,free/reduced,none,72,79,77
-male,group E,some college,standard,none,53,55,48
-female,group C,associate's degree,standard,none,46,58,57
-female,group D,high school,free/reduced,completed,65,61,71
-female,group E,some college,free/reduced,completed,42,55,54
-female,group C,associate's degree,standard,completed,83,85,90
-male,group D,some high school,standard,none,60,59,54
-male,group D,some college,standard,completed,100,97,99
-female,group C,high school,free/reduced,completed,67,79,84
-female,group C,associate's degree,free/reduced,none,54,58,61
-male,group B,bachelor's degree,standard,none,59,54,51
-female,group B,high school,standard,none,48,62,60
-male,group C,high school,standard,none,90,75,69
-female,group B,associate's degree,standard,none,82,80,77
-female,group D,high school,standard,none,51,66,62
-female,group C,high school,free/reduced,none,35,61,54
-female,group D,associate's degree,free/reduced,completed,75,90,88
-female,group C,master's degree,standard,completed,81,91,87
-male,group C,associate's degree,standard,none,85,76,71
-female,group D,some high school,free/reduced,completed,69,86,81
-female,group B,bachelor's degree,free/reduced,none,77,85,87
-male,group C,associate's degree,free/reduced,none,58,55,53
-male,group B,high school,standard,completed,52,49,46
-male,group D,some high school,standard,none,62,67,61
-female,group B,some high school,standard,none,67,89,82
-female,group E,some college,standard,none,76,78,80
-male,group D,bachelor's degree,free/reduced,none,68,68,67
-female,group C,associate's degree,standard,completed,59,73,72
-female,group B,some high school,free/reduced,none,18,32,28
-male,group D,some college,standard,completed,65,77,74
-female,group C,some college,standard,none,71,81,80
-female,group E,some college,standard,none,62,73,70
-male,group D,some high school,standard,none,69,66,61
-male,group D,some college,standard,none,72,57,58
-female,group E,associate's degree,standard,none,66,65,69
-male,group C,high school,standard,none,84,77,74
-female,group E,bachelor's degree,standard,none,37,45,38
-female,group C,associate's degree,standard,none,85,84,82
-male,group C,master's degree,free/reduced,completed,62,68,75
-male,group D,some high school,free/reduced,none,56,54,52
-male,group B,some college,standard,completed,69,77,77
-female,group D,some college,standard,none,98,100,99
-male,group C,high school,standard,none,50,48,42
-female,group E,master's degree,standard,completed,94,99,100
-female,group C,associate's degree,standard,none,91,95,94
-female,group E,some college,standard,completed,66,74,73
-female,group C,some high school,standard,none,74,75,82
-male,group B,associate's degree,standard,none,65,54,57
-male,group E,bachelor's degree,standard,completed,70,64,70
-male,group B,some college,free/reduced,none,60,60,60
-female,group A,high school,standard,none,61,68,63
-male,group E,some high school,standard,none,94,88,78
-male,group C,high school,standard,none,88,89,86
-male,group A,some high school,standard,none,64,50,43
-female,group D,associate's degree,free/reduced,completed,57,74,76
-male,group C,some high school,standard,completed,78,72,69
-male,group C,master's degree,free/reduced,completed,72,66,72
-female,group C,some high school,standard,completed,76,87,85
-female,group E,some high school,free/reduced,none,74,74,72
-male,group B,high school,standard,completed,73,71,68
-female,group D,some college,free/reduced,completed,70,78,78
-female,group C,high school,standard,none,76,76,74
-male,group C,some high school,standard,none,57,61,54
-female,group E,master's degree,free/reduced,none,45,56,54
-male,group B,some college,standard,none,69,54,55
-female,group C,some college,standard,none,62,69,69
-male,group D,associate's degree,free/reduced,none,75,66,73
-female,group D,some college,standard,completed,75,77,83
-male,group C,some college,standard,none,59,60,58
-female,group C,some college,standard,completed,88,95,94
-female,group D,some high school,free/reduced,none,50,64,59
-female,group D,some college,standard,none,62,70,72
-female,group D,bachelor's degree,standard,none,59,70,73
-male,group C,some college,standard,none,91,74,76
-male,group C,some college,standard,none,63,63,60
-male,group C,master's degree,standard,none,71,67,67
-female,group B,some high school,free/reduced,completed,59,63,64
-male,group C,some high school,standard,none,64,58,51
-female,group C,master's degree,standard,completed,69,84,85
-male,group C,some high school,standard,none,62,64,55
-male,group C,associate's degree,standard,none,97,93,91
-female,group E,associate's degree,standard,completed,95,89,92
-female,group B,bachelor's degree,standard,none,75,84,80
-female,group A,some college,free/reduced,none,61,60,57
-female,group D,master's degree,standard,none,53,61,68
-female,group E,associate's degree,standard,none,68,76,67
-male,group B,master's degree,free/reduced,none,49,53,52
-female,group C,bachelor's degree,free/reduced,none,67,75,72
-female,group B,associate's degree,standard,completed,59,70,66
-male,group C,some high school,standard,completed,76,80,73
-female,group D,bachelor's degree,free/reduced,none,62,72,74
-female,group E,associate's degree,standard,none,84,95,92
-male,group C,high school,standard,none,62,55,49
-female,group C,some college,standard,none,72,72,71
-male,group A,high school,free/reduced,none,53,58,44
-male,group B,high school,standard,completed,60,44,47
-female,group D,high school,standard,completed,57,58,64
-male,group E,high school,free/reduced,completed,57,56,54
-male,group D,some high school,standard,completed,71,69,68
-female,group A,high school,standard,none,55,73,73
-female,group D,associate's degree,free/reduced,none,46,56,57
-female,group C,some college,standard,none,69,78,76
-female,group C,some college,standard,none,55,69,65
-male,group D,high school,standard,none,88,78,75
-male,group A,bachelor's degree,standard,none,77,67,68
-female,group D,high school,standard,completed,88,99,100
-female,group C,associate's degree,standard,none,54,61,58
-male,group E,high school,standard,completed,81,80,76
-female,group D,associate's degree,free/reduced,none,43,60,58
-male,group B,some college,free/reduced,completed,74,77,76
-male,group D,some high school,standard,completed,78,81,86
-male,group D,high school,free/reduced,completed,64,64,67
-female,group E,high school,free/reduced,none,41,45,40
-female,group D,associate's degree,standard,none,74,81,83
-female,group C,associate's degree,free/reduced,none,65,77,74
-female,group A,high school,standard,completed,68,80,76
-male,group D,master's degree,standard,none,80,80,72
-male,group B,associate's degree,standard,none,80,76,64
-male,group D,high school,standard,none,69,75,71
-male,group A,bachelor's degree,standard,none,91,96,92
-male,group A,some college,standard,completed,100,96,86
-female,group C,some college,standard,completed,87,89,94
-female,group E,associate's degree,standard,none,85,92,85
-female,group C,some high school,free/reduced,none,44,50,51
-male,group D,some college,free/reduced,completed,69,60,63
-male,group E,associate's degree,standard,completed,71,74,68
-female,group C,bachelor's degree,free/reduced,completed,51,72,79
-male,group A,some high school,standard,completed,62,67,69
-male,group C,associate's degree,free/reduced,none,68,65,61
-male,group D,high school,standard,none,41,52,51
-male,group D,high school,free/reduced,none,44,51,48
-male,group C,some high school,free/reduced,none,79,76,65
-female,group E,associate's degree,standard,completed,93,100,95
-male,group B,some high school,standard,completed,64,53,57
-male,group C,associate's degree,free/reduced,none,73,68,66
-male,group B,some high school,standard,none,88,84,75
-female,group C,some college,free/reduced,none,62,72,70
-male,group D,some college,free/reduced,none,62,57,62
-male,group C,high school,free/reduced,none,61,60,55
-male,group D,associate's degree,standard,none,90,87,85
-male,group D,high school,free/reduced,none,75,74,66
-female,group C,some college,free/reduced,none,77,90,91
-female,group C,some college,standard,none,82,90,94
-male,group E,high school,standard,none,80,76,65
-male,group D,high school,free/reduced,none,63,57,56
-male,group E,some high school,standard,none,82,67,61
-female,group E,some college,standard,none,61,64,62
-male,group A,high school,standard,none,57,43,47
-female,group D,high school,standard,none,45,63,59
-male,group E,high school,free/reduced,none,55,56,51
-female,group B,associate's degree,standard,none,58,63,65
-male,group B,bachelor's degree,free/reduced,none,73,56,57
-female,group E,bachelor's degree,standard,none,65,73,75
-female,group C,some high school,standard,completed,59,54,67
-female,group C,some college,standard,completed,88,93,93
-female,group D,associate's degree,standard,none,65,69,70
-male,group C,associate's degree,standard,none,69,77,69
-male,group C,high school,standard,none,70,56,51
-male,group E,associate's degree,standard,none,89,76,74
-male,group E,high school,standard,none,84,73,69
-male,group D,associate's degree,free/reduced,completed,61,71,73
-female,group B,high school,standard,none,74,72,72
-male,group B,high school,standard,none,57,48,51
-female,group C,high school,standard,completed,60,64,74
-male,group C,high school,free/reduced,none,54,72,59
-female,group A,bachelor's degree,standard,none,51,49,51
-female,group D,some high school,standard,completed,80,92,88
-female,group A,some college,free/reduced,none,49,65,55
-male,group C,bachelor's degree,standard,completed,91,81,79
-male,group B,high school,standard,none,52,48,49
-male,group C,master's degree,standard,none,67,57,59
-female,group C,bachelor's degree,free/reduced,completed,47,62,66
-male,group B,some high school,standard,completed,61,56,56
-female,group D,associate's degree,free/reduced,completed,74,88,90
-female,group E,some college,standard,none,68,70,66
-male,group C,master's degree,free/reduced,completed,79,77,75
-female,group D,some college,free/reduced,none,64,74,75
-male,group B,some college,standard,completed,91,96,91
-female,group E,bachelor's degree,free/reduced,none,61,58,62
-female,group C,bachelor's degree,free/reduced,none,43,62,61
-female,group C,high school,free/reduced,none,53,72,64
-female,group E,bachelor's degree,standard,none,64,73,70
-female,group A,high school,free/reduced,completed,53,50,60
-female,group C,bachelor's degree,standard,none,86,92,87
-female,group D,high school,standard,none,69,72,77
-female,group C,some high school,standard,none,77,91,88
-female,group D,high school,standard,none,78,81,80
-female,group C,some college,standard,none,54,48,52
-male,group A,associate's degree,standard,none,54,53,47
-female,group E,associate's degree,free/reduced,none,73,76,78
-female,group B,bachelor's degree,standard,none,67,86,83
-male,group C,associate's degree,free/reduced,none,49,51,51
-female,group C,master's degree,free/reduced,none,40,58,54
-male,group D,associate's degree,free/reduced,none,52,57,50
-female,group D,some college,standard,completed,82,97,96
-male,group D,some high school,standard,none,81,78,78
-female,group B,high school,free/reduced,completed,23,44,36
-male,group E,some high school,standard,none,92,87,78
-female,group B,some high school,standard,completed,32,51,44
-female,group E,some college,standard,completed,73,78,76
-male,group C,associate's degree,standard,none,83,72,78
-female,group B,high school,standard,none,50,53,55
-female,group D,master's degree,standard,completed,70,71,74
-male,group D,associate's degree,standard,completed,67,54,63
-female,group D,associate's degree,free/reduced,completed,42,61,58
-male,group D,some college,free/reduced,none,59,62,61
-female,group B,some college,standard,none,70,75,78
-male,group B,some college,free/reduced,none,55,55,47
-male,group D,associate's degree,standard,none,61,48,46
-female,group B,bachelor's degree,standard,completed,66,74,81
-female,group D,bachelor's degree,free/reduced,none,73,79,84
-female,group D,some high school,standard,none,80,90,82
-female,group A,some high school,free/reduced,none,38,43,43
-female,group B,associate's degree,standard,completed,52,66,73
-male,group C,high school,standard,completed,58,52,54
-female,group C,high school,standard,none,72,80,83
-female,group C,associate's degree,standard,completed,68,86,84
-female,group C,bachelor's degree,standard,completed,77,94,95
-female,group B,some high school,standard,none,82,82,80
-female,group D,associate's degree,standard,none,76,74,73
-male,group E,some high school,standard,completed,81,75,76
-male,group E,associate's degree,free/reduced,completed,46,43,44
-male,group D,some college,standard,none,88,77,77
-male,group C,associate's degree,free/reduced,completed,65,73,68
-female,group B,bachelor's degree,standard,none,97,97,96
-female,group B,some college,standard,none,82,85,87
-female,group B,bachelor's degree,standard,completed,65,81,81
-male,group C,master's degree,standard,completed,91,85,85
-female,group C,associate's degree,standard,completed,55,72,79
-female,group D,master's degree,standard,none,92,100,100
-female,group B,high school,standard,none,81,91,89
-female,group E,associate's degree,free/reduced,completed,57,68,73
-female,group C,some college,standard,none,73,80,82
-female,group D,high school,standard,none,56,52,55
-female,group D,associate's degree,standard,completed,57,78,79
-male,group D,associate's degree,free/reduced,none,66,62,64
-male,group C,high school,standard,completed,53,52,49
-male,group E,associate's degree,standard,completed,81,81,79
-male,group C,high school,standard,completed,75,69,68
-male,group A,high school,standard,completed,72,73,74
-female,group B,some high school,standard,none,73,79,79
-female,group E,some college,standard,completed,86,85,91
-female,group C,bachelor's degree,standard,none,65,79,81
-male,group D,high school,standard,none,64,54,50
-female,group B,high school,standard,none,58,68,61
-male,group D,some high school,standard,none,55,47,44
-male,group C,associate's degree,free/reduced,completed,78,81,82
-female,group D,some college,free/reduced,completed,63,80,80
-male,group D,high school,free/reduced,completed,73,68,66
-female,group C,high school,standard,none,81,84,82
-female,group E,high school,standard,none,74,81,71
-female,group C,associate's degree,standard,none,49,53,53
-male,group C,bachelor's degree,free/reduced,none,53,58,55
-male,group D,some college,free/reduced,none,77,62,64
-female,group D,some college,free/reduced,none,69,65,74
-male,group E,bachelor's degree,standard,none,82,62,62
-male,group E,some college,standard,none,76,67,67
-female,group B,high school,standard,none,42,52,51
-female,group C,associate's degree,standard,none,85,89,95
-female,group C,high school,standard,completed,58,75,77
-female,group C,high school,standard,none,59,72,68
-female,group C,high school,free/reduced,none,34,42,39
-male,group C,some college,standard,none,76,78,75
-female,group D,some high school,standard,none,68,71,75
-female,group B,some high school,free/reduced,none,72,81,79
-female,group C,some high school,free/reduced,none,48,56,51
-male,group C,bachelor's degree,standard,completed,94,90,91
-male,group D,associate's degree,standard,none,81,71,73
-female,group A,some high school,standard,completed,92,100,97
-male,group E,some college,standard,completed,81,74,71
-female,group C,some high school,free/reduced,completed,29,40,44
-female,group D,some college,free/reduced,none,58,67,62
-female,group C,some college,standard,none,73,76,78
-male,group E,some high school,standard,completed,68,51,57
-female,group C,high school,free/reduced,completed,50,66,64
-male,group B,associate's degree,standard,completed,65,65,63
-male,group C,some college,free/reduced,none,63,61,54
-female,group C,high school,standard,none,66,71,76
-female,group E,master's degree,free/reduced,none,56,72,65
-male,group E,associate's degree,standard,completed,94,85,82
-female,group C,associate's degree,standard,none,66,77,73
-female,group C,associate's degree,standard,completed,67,84,86
-male,group D,bachelor's degree,free/reduced,completed,74,79,75
-female,group C,bachelor's degree,standard,none,67,69,75
-male,group C,bachelor's degree,standard,completed,63,64,66
-male,group D,some college,standard,none,76,64,66
-male,group A,associate's degree,free/reduced,completed,79,82,82
-female,group B,some high school,free/reduced,completed,52,67,72
-female,group A,some high school,standard,none,71,83,77
-male,group B,bachelor's degree,free/reduced,none,88,75,76
-male,group D,some college,standard,none,68,59,62
-female,group D,high school,standard,completed,69,77,78
-female,group D,some college,standard,none,77,68,77
-male,group E,bachelor's degree,standard,none,68,68,64
-female,group B,some high school,standard,none,66,69,68
-female,group C,associate's degree,standard,none,59,66,67
-male,group A,associate's degree,free/reduced,none,62,61,55
-female,group C,high school,standard,none,63,69,74
-female,group E,high school,free/reduced,none,64,62,68
-male,group D,master's degree,standard,none,82,82,74
-male,group B,some college,free/reduced,completed,60,62,60
-male,group D,some college,standard,none,71,49,52
-male,group B,associate's degree,free/reduced,completed,58,57,53
-female,group E,associate's degree,standard,none,100,100,100
-female,group D,some high school,standard,none,59,58,59
-female,group C,master's degree,standard,completed,54,64,67
-female,group A,master's degree,standard,none,50,53,58
-female,group E,high school,free/reduced,completed,66,74,78
-male,group C,associate's degree,free/reduced,none,55,61,54
-female,group C,some college,standard,none,83,83,90
-male,group A,bachelor's degree,standard,none,66,64,62
-male,group D,some high school,standard,completed,62,66,68
-female,group B,high school,standard,none,62,62,63
-female,group E,associate's degree,free/reduced,completed,83,86,88
-female,group D,some college,free/reduced,none,60,66,70
-male,group C,some college,standard,none,53,44,42
-female,group D,some high school,standard,none,59,72,80
-male,group C,associate's degree,standard,none,49,51,43
-female,group C,bachelor's degree,free/reduced,none,50,60,59
-male,group E,associate's degree,free/reduced,completed,91,73,80
-male,group B,some college,standard,none,47,43,41
-male,group B,associate's degree,free/reduced,none,67,62,60
-female,group B,some high school,standard,none,57,67,72
-female,group D,some college,free/reduced,none,71,83,83
-female,group E,associate's degree,standard,completed,65,75,77
-male,group B,some college,free/reduced,none,54,54,45
-male,group C,bachelor's degree,free/reduced,none,37,56,47
-male,group C,high school,free/reduced,none,62,55,55
-male,group B,some high school,standard,completed,94,86,87
-male,group D,bachelor's degree,free/reduced,completed,39,42,38
-female,group E,some college,free/reduced,none,71,76,70
-female,group D,some college,free/reduced,none,65,81,77
-female,group E,some college,free/reduced,completed,75,88,85
-female,group C,some college,free/reduced,none,32,39,33
-male,group C,some college,standard,none,53,39,37
-male,group A,some college,standard,none,53,43,43
-male,group A,bachelor's degree,standard,completed,87,84,87
-male,group E,bachelor's degree,standard,completed,76,62,66
-female,group D,bachelor's degree,free/reduced,none,78,90,93
-male,group D,bachelor's degree,standard,none,75,73,74
-female,group C,some college,standard,none,58,67,72
-male,group B,associate's degree,standard,none,48,43,45
-male,group D,master's degree,standard,none,73,70,75
-female,group C,some college,standard,completed,69,90,88
-female,group E,high school,free/reduced,none,57,58,57
-male,group B,some high school,standard,completed,79,85,86
-female,group C,some college,standard,none,63,74,74
-female,group B,associate's degree,standard,none,47,49,50
-male,group D,some high school,standard,completed,74,71,78
-male,group E,some college,standard,none,97,87,82
-female,group B,some high school,free/reduced,none,49,58,55
-male,group C,master's degree,standard,none,79,78,77
-male,group C,some high school,free/reduced,none,69,71,65
-female,group C,associate's degree,free/reduced,none,53,61,62
-male,group C,high school,standard,completed,69,58,53
-male,group C,high school,free/reduced,none,27,34,36
-female,group D,some high school,free/reduced,completed,35,55,60
-female,group B,some high school,free/reduced,completed,63,78,79
-male,group B,bachelor's degree,free/reduced,none,48,51,46
-female,group C,high school,standard,none,72,80,75
-female,group B,high school,standard,none,66,72,70
-female,group E,bachelor's degree,standard,none,80,83,83
-male,group A,some college,standard,completed,78,72,70
-male,group C,high school,standard,none,71,66,65
-female,group D,master's degree,standard,none,54,60,63
-female,group C,associate's degree,free/reduced,none,57,78,67
-female,group D,some college,standard,none,65,70,71
-male,group C,high school,free/reduced,completed,53,51,51
-female,group D,high school,free/reduced,none,39,52,46
-female,group D,associate's degree,free/reduced,none,55,76,76
-female,group D,associate's degree,standard,none,59,70,65
-female,group B,high school,free/reduced,none,60,72,68
-female,group B,associate's degree,standard,none,49,52,54
-female,group B,high school,free/reduced,none,8,24,23
-female,group D,master's degree,free/reduced,none,40,59,54
-female,group C,bachelor's degree,free/reduced,completed,74,86,89
-male,group E,some college,standard,none,59,51,43
-female,group E,bachelor's degree,free/reduced,completed,92,100,100
-male,group C,some college,free/reduced,none,80,64,66
-male,group C,bachelor's degree,standard,completed,96,90,92
-male,group E,some college,standard,completed,85,75,68
-female,group C,bachelor's degree,standard,none,77,88,87
-female,group B,high school,free/reduced,completed,76,85,82
-male,group C,high school,free/reduced,none,66,66,59
-female,group D,bachelor's degree,standard,completed,71,76,83
-male,group B,high school,standard,none,60,68,60
-male,group D,some college,standard,none,76,71,73
-male,group D,some college,standard,completed,58,59,58
-female,group B,associate's degree,standard,completed,90,90,91
-female,group D,some college,standard,completed,74,75,79
-male,group B,some college,free/reduced,none,75,68,65
-male,group C,some college,standard,none,69,64,68
-female,group B,some high school,standard,completed,60,70,70
-female,group B,some college,free/reduced,completed,65,75,70
-female,group C,associate's degree,free/reduced,completed,68,67,69
-male,group B,high school,standard,completed,72,65,68
-male,group B,associate's degree,free/reduced,completed,82,78,74
-female,group C,some high school,standard,completed,85,92,93
-male,group E,associate's degree,standard,none,72,57,62
-male,group D,some college,standard,completed,76,83,79
-female,group E,some college,standard,none,67,76,75
-male,group A,some college,free/reduced,none,75,81,74
-male,group B,some high school,standard,completed,63,67,67
-female,group C,associate's degree,standard,none,64,64,70
-male,group D,associate's degree,standard,completed,67,72,67
-male,group A,some college,free/reduced,none,58,60,57
-female,group B,associate's degree,free/reduced,none,53,71,67
-male,group C,some high school,standard,none,73,66,63
-male,group D,master's degree,standard,none,89,84,82
-female,group C,high school,standard,none,65,69,67
-female,group C,some college,standard,completed,70,72,76
-female,group D,bachelor's degree,standard,none,65,67,62
-male,group D,some high school,standard,none,74,74,72
-female,group D,associate's degree,standard,none,71,71,74
-female,group E,bachelor's degree,standard,none,100,100,100
-male,group C,high school,standard,none,71,60,61
-male,group E,high school,standard,completed,87,91,81
-female,group D,associate's degree,free/reduced,none,26,31,38
-male,group B,associate's degree,standard,completed,91,89,92
-female,group A,associate's degree,standard,none,82,93,93
-male,group D,high school,standard,none,66,69,63
-female,group E,bachelor's degree,standard,completed,79,81,82
-male,group D,some college,standard,completed,63,55,63
-female,group D,master's degree,standard,none,87,100,100
-male,group C,bachelor's degree,standard,none,69,63,61
-female,group C,associate's degree,standard,none,53,62,53
-male,group C,some college,free/reduced,completed,50,48,53
-female,group D,associate's degree,standard,none,85,91,89
+Unnamed: 0,Car Make,Car Model,Year,Engine Size (L),Horsepower,Torque (lb-ft),0-60 MPH Time (seconds),Price (in USD),Engine Displacement Category,Acceleration Category
+929,Bentley,Continental GT,2021,6.0,626.0,664.0,3.3,201000.0,Large,Fast
+57,Lamborghini,Urus,2021,4.0,641.0,627.0,3.2,218000.0,Medium,Fast
+432,Nissan,370Z Nismo,2021,3.7,350.0,276.0,5.2,45000.0,Medium,Medium
+739,Mercedes-Benz,SLS AMG,2015,6.2,622.0,468.0,3.5,222500.0,Extra Large,Fast
+692,Bentley,Continental GT Speed,2022,6.0,650.0,664.0,3.5,300000.0,Large,Fast
+24,Pagani,Huayra,2021,6.0,720.0,737.0,2.8,2800000.0,Large,Fast
+1005,Pagani,Huayra,2021,6.0,764.0,738.0,3.0,2600000.0,Large,Fast
+896,Audi,RS 7,2021,4.0,591.0,590.0,3.4,114000.0,Medium,Fast
+286,Kia,Stinger,2022,3.3,368.0,376.0,4.7,52200.0,Medium,Fast
+347,Maserati,GranTurismo,2021,4.7,454.0,384.0,4.7,133050.0,Large,Fast
+840,Mercedes-Benz,AMG C43 Coupe,2021,3.0,385.0,384.0,4.5,59900.0,Medium,Fast
+116,Porsche,Panamera Turbo S E-Hybrid,2021,4.0,690.0,642.0,3.2,190000.0,Medium,Fast
+84,Bentley,Continental GT,2021,6.0,626.0,664.0,3.3,219800.0,Large,Fast
+52,Ford,Mustang GT,2022,5.0,460.0,420.0,4.3,39000.0,Large,Fast
+277,Lamborghini,Aventador SVJ,2020,6.5,770.0,531.0,2.8,573966.0,Extra Large,Fast
+770,Porsche,718 Boxster,2022,2.0,300.0,280.0,4.9,63000.0,Small,Fast
+606,Audi,RS 6,2022,4.0,591.0,590.0,3.5,109000.0,Medium,Fast
+429,Mercedes-Benz,AMG C 63,2022,4.0,503.0,516.0,3.8,70000.0,Medium,Fast
+306,Lamborghini,Aventador S,2021,6.5,730.0,509.0,2.9,417826.0,Extra Large,Fast
+271,Lotus,Evora GT,2022,3.5,416.0,317.0,3.8,105000.0,Medium,Fast
+934,Maserati,GranTurismo,2021,4.7,454.0,384.0,4.7,150000.0,Large,Fast
+18,Porsche,Boxster,2021,2.0,300.0,280.0,4.7,62000.0,Small,Fast
+247,Tesla,Model S Plaid,2022,4.0,1020.0,1050.0,1.9,131190.0,Medium,Fast
+318,Pagani,Huayra,2021,6.0,730.0,738.0,3.0,2600000.0,Large,Fast
+568,Lamborghini,Urus,2022,4.0,641.0,626.0,3.2,218009.0,Medium,Fast
+295,Lamborghini,Aventador,2021,6.5,770.0,531.0,2.8,417826.0,Extra Large,Fast
+62,Aston Martin,Vantage,2022,4.0,503.0,505.0,3.5,146000.0,Medium,Fast
+261,Audi,TT RS,2022,2.5,394.0,354.0,3.4,67895.0,Medium,Fast
+668,McLaren,570S,2021,3.8,562.0,443.0,2.7,204995.0,Medium,Fast
+29,Ferrari,SF90 Stradale,2021,4.0,986.0,590.0,2.5,625000.0,Medium,Fast
+682,Aston Martin,DBS Superleggera,2021,5.2,715.0,663.0,3.2,310000.0,Large,Fast
+454,Ferrari,F8 Spider,2021,3.9,710.0,568.0,2.9,280000.0,Medium,Fast
+630,Bentley,Continental GT,2021,6.0,626.0,664.0,3.6,201000.0,Large,Fast
+420,Lotus,Evija,2022,,1973.0,1254.0,2.5,2750000.0,,Fast
+582,Dodge,Challenger Hellcat,2021,6.2,717.0,656.0,3.5,70595.0,Extra Large,Fast
+951,McLaren,GT,2021,4.0,612.0,465.0,3.1,250000.0,Medium,Fast
+800,McLaren,570S,2021,3.8,562.0,443.0,3.1,193000.0,Medium,Fast
+555,Lamborghini,Aventador S,2022,6.5,729.0,507.0,2.9,460247.0,Extra Large,Fast
+720,Audi,RS7,2022,4.0,591.0,590.0,3.5,115000.0,Medium,Fast
+628,Aston Martin,DB11,2021,4.0,503.0,498.0,3.7,205600.0,Medium,Fast
+416,Ford,GT,2021,3.5,660.0,550.0,2.8,500000.0,Medium,Fast
+813,Mercedes-Benz,C 63 AMG,2022,4.0,469.0,479.0,3.9,69000.0,Medium,Fast
+197,McLaren,600LT,2021,3.8,592.0,457.0,2.8,242500.0,Medium,Fast
+272,McLaren,GT,2021,4.0,612.0,465.0,3.1,211000.0,Medium,Fast
+700,Bentley,Continental GT,2022,4.0,542.0,568.0,3.9,229000.0,Medium,Fast
+451,Bentley,Continental GT,2021,4.0,626.0,664.0,3.3,220000.0,Medium,Fast
+218,Mercedes-Benz,S63 AMG,2021,4.0,603.0,664.0,3.4,152500.0,Medium,Fast
+923,Mercedes-Benz,SL,2022,3.0,429.0,384.0,4.4,96000.0,Medium,Fast
+181,Mercedes-Benz,SLS AMG,2015,6.2,622.0,468.0,3.6,228000.0,Extra Large,Fast
+388,Rolls-Royce,Wraith,2021,6.6,624.0,642.0,4.4,330000.0,Extra Large,Fast
+853,Porsche,Panamera,2022,2.9,325.0,331.0,5.3,88550.0,Medium,Medium
+583,Ford,GT,2022,3.5,647.0,550.0,3.0,500000.0,Medium,Fast
+659,Bentley,Continental GT,2021,6.0,626.0,664.0,3.6,203825.0,Large,Fast
+865,Ferrari,F8 Tributo,2022,3.9,710.0,568.0,2.8,275000.0,Medium,Fast
+491,Porsche,718 Boxster,2021,2.0,300.0,280.0,4.9,62000.0,Small,Fast
+637,Mercedes-AMG,GT Black Series,2021,4.0,720.0,590.0,3.1,325000.0,Medium,Fast
+108,Mercedes-Benz,SL 63 AMG,2021,4.0,603.0,664.0,3.5,155000.0,Medium,Fast
+121,Porsche,Cayman GT4,2022,4.0,414.0,309.0,4.2,102100.0,Medium,Fast
+880,Rolls-Royce,Ghost,2021,6.8,563.0,627.0,4.6,332500.0,Extra Large,Fast
+237,Audi,RS5,2022,2.9,444.0,443.0,3.7,77250.0,Medium,Fast
+878,Maserati,GranTurismo,2021,,550.0,590.0,2.8,200000.0,,Fast
+910,Maserati,GranTurismo,2021,4.7,454.0,384.0,4.7,150800.0,Large,Fast
+95,Pagani,Huayra,2022,6.0,764.0,738.0,2.8,2800000.0,Large,Fast
+7,Chevrolet,Corvette,2021,6.2,490.0,465.0,2.8,59900.0,Extra Large,Fast
+92,Mazda,MX-5 Miata,2021,2.0,181.0,151.0,6.5,26830.0,Small,Medium
+714,Porsche,Cayman,2022,2.0,300.0,280.0,4.9,68000.0,Small,Fast
+485,Dodge,Challenger SRT Hellcat,2022,6.2,717.0,656.0,3.5,61500.0,Extra Large,Fast
+703,Maserati,GranTurismo,2021,4.7,454.0,384.0,4.7,135000.0,Large,Fast
+474,Porsche,Panamera Turbo S,2022,4.0,630.0,604.0,2.9,180800.0,Medium,Fast
+895,Nissan,370Z,2021,3.7,332.0,270.0,5.2,30000.0,Medium,Medium
+781,Bentley,Continental GT,2022,6.0,626.0,664.0,3.3,225000.0,Large,Fast
+152,BMW,M2 CS,2022,3.0,444.0,406.0,3.8,84595.0,Medium,Fast
+28,Lamborghini,Aventador SVJ,2021,6.5,759.0,531.0,2.8,517770.0,Extra Large,Fast
+43,Mercedes-Benz,CLS63 AMG,2019,4.0,603.0,627.0,3.4,132000.0,Medium,Fast
+42,BMW,i8,2020,,369.0,420.0,4.2,148500.0,,Fast
+75,Audi,TT RS,2021,2.5,394.0,354.0,3.6,67600.0,Medium,Fast
+187,Ferrari,F8 Tributo,2021,3.9,710.0,568.0,2.9,276550.0,Medium,Fast
+812,BMW,M2 Competition,2022,3.0,405.0,406.0,4.2,58900.0,Medium,Fast
+851,Ford,Mustang Mach 1,2021,5.0,480.0,420.0,4.1,51720.0,Large,Fast
+67,Ford,GT,2021,3.5,660.0,550.0,3.0,500000.0,Medium,Fast
+11,Bugatti,Chiron,2021,8.0,1500.0,1180.0,2.4,3000000.0,Extra Large,Fast
+379,Koenigsegg,Jesko,2022,5.0,1280.0,1015.0,2.5,2800000.0,Large,Fast
+782,Bugatti,Chiron,2021,8.0,1479.0,1180.0,2.4,3000000.0,Extra Large,Fast
+200,Chevrolet,Camaro ZL1,2021,6.2,650.0,650.0,3.5,62000.0,Extra Large,Fast
+494,Audi,TT RS Coupe,2021,2.5,394.0,354.0,3.6,67600.0,Medium,Fast
+452,Porsche,718 Boxster,2022,2.0,300.0,280.0,4.9,62000.0,Small,Fast
+517,Aston Martin,DBS Superleggera,2022,5.2,715.0,663.0,3.2,308000.0,Large,Fast
+547,Audi,RS 7 Sportback,2022,4.0,591.0,590.0,3.5,114000.0,Medium,Fast
+546,Chevrolet,Camaro ZL1,2022,6.2,650.0,650.0,3.5,65000.0,Extra Large,Fast
+198,Mercedes-AMG,C 63 S Coupe,2022,4.0,503.0,516.0,3.7,77000.0,Medium,Fast
+614,Mercedes-Benz,SLS AMG,2015,6.2,622.0,468.0,3.5,228000.0,Extra Large,Fast
+731,McLaren,570S,2021,3.8,562.0,443.0,3.1,200000.0,Medium,Fast
+85,Bugatti,Chiron,2022,8.0,1500.0,1180.0,2.4,3000000.0,Extra Large,Fast
+250,Ferrari,Portofino,2022,3.9,591.0,413.0,3.3,218750.0,Medium,Fast
+608,Porsche,Taycan 4S,2021,,429.0,472.0,3.8,103800.0,,Fast
+832,BMW,M4 Competition,2022,3.0,503.0,479.0,3.8,74700.0,Medium,Fast
+920,Audi,RS5 Coupe,2022,2.9,444.0,443.0,3.5,76350.0,Medium,Fast
+793,Mercedes-Benz,S63 AMG,2021,4.0,603.0,664.0,3.4,168000.0,Medium,Fast
+620,Bentley,Continental GT,2021,4.0,626.0,664.0,3.3,202500.0,Medium,Fast
+81,Porsche,718 Cayman,2022,2.0,300.0,280.0,4.5,61000.0,Small,Fast
+23,Mercedes-AMG,SLS AMG,2021,6.2,622.0,468.0,3.5,248000.0,Extra Large,Fast
+15,Lexus,LC 500,2021,5.0,471.0,398.0,4.4,92950.0,Large,Fast
+784,Jaguar,F-Type,2022,2.0,296.0,295.0,5.4,63700.0,Small,Medium
+959,Audi,RS7 Sportback,2022,4.0,591.0,590.0,3.5,114000.0,Medium,Fast
+431,Ford,Mustang Mach 1,2021,5.0,480.0,420.0,4.0,51000.0,Large,Fast
+285,Jaguar,F-Type,2022,2.0,296.0,295.0,5.4,61600.0,Small,Medium
+690,Lamborghini,Aventador SVJ,2020,6.5,759.0,531.0,2.8,517000.0,Extra Large,Fast
+334,Rolls-Royce,Wraith,2021,6.8,624.0,605.0,4.3,330000.0,Extra Large,Fast
+401,Tesla,Model S Plaid,2021,,1020.0,1050.0,1.9,141190.0,,Fast
+357,Bentley,Continental GT,2021,6.0,626.0,664.0,3.6,218400.0,Large,Fast
+419,Lexus,LC 500,2021,5.0,471.0,398.0,4.4,93050.0,Large,Fast
+149,Ferrari,Roma,2021,3.9,612.0,561.0,3.3,222620.0,Medium,Fast
+446,Mercedes-Benz,SLC 43,2020,3.0,385.0,384.0,4.6,62000.0,Medium,Fast
+387,Rimac,C_Two,2022,4.0,1888.0,1696.0,1.8,2400000.0,Medium,Fast
+307,Ferrari,F8 Tributo,2022,3.9,710.0,568.0,2.8,276550.0,Medium,Fast
+442,Ferrari,Portofino,2021,3.9,591.0,413.0,3.5,215000.0,Medium,Fast
+9,Nissan,GT-R Nismo,2021,3.8,600.0,481.0,2.5,212000.0,Medium,Fast
+287,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,100450.0,Medium,Fast
+22,McLaren,Artura,2022,3.0,671.0,531.0,3.0,225000.0,Medium,Fast
+255,Chevrolet,Camaro SS,2021,6.2,455.0,455.0,4.1,40590.0,Extra Large,Fast
+987,Lotus,Evija,2022,,1973.0,1254.0,2.5,2000000.0,,Fast
+982,Aston Martin,Vantage,2021,4.0,503.0,505.0,3.6,147000.0,Medium,Fast
+425,Ferrari,Portofino,2021,3.9,591.0,560.0,3.3,218750.0,Medium,Fast
+916,Tesla,Roadster,2022,4.0,,590.0,1.9,200000.0,Medium,Fast
+232,Jaguar,F-Type R,2021,5.0,575.0,516.0,3.5,103200.0,Large,Fast
+511,Tesla,Model S Plaid,2021,,1020.0,1050.0,1.9,141990.0,,Fast
+96,Porsche,718 Cayman GT4,2022,4.0,414.0,309.0,4.2,100550.0,Medium,Fast
+367,BMW,M4,2021,3.0,473.0,406.0,4.1,71800.0,Medium,Fast
+324,Acura,NSX,2021,3.5,573.0,476.0,2.7,159495.0,Medium,Fast
+521,Jaguar,F-Type,2021,3.0,380.0,339.0,4.9,63100.0,Medium,Fast
+207,Ferrari,F8 Tributo,2021,3.9,710.0,568.0,2.9,274280.0,Medium,Fast
+775,BMW,Z4 Roadster,2022,2.0,255.0,295.0,5.2,50000.0,Small,Medium
+363,Porsche,Cayman GT4,2021,4.0,414.0,309.0,4.2,101200.0,Medium,Fast
+169,Rolls-Royce,Wraith,2021,6.6,624.0,605.0,4.3,330000.0,Extra Large,Fast
+77,Chevrolet,Corvette Stingray,2021,6.2,490.0,465.0,2.8,59900.0,Extra Large,Fast
+423,Porsche,Cayman GT4,2021,4.0,414.0,309.0,4.2,102500.0,Medium,Fast
+320,Tesla,Model S Plaid,2021,,1020.0,1050.0,1.9,131100.0,,Fast
+69,Lamborghini,Aventador,2021,6.5,770.0,531.0,2.9,417826.0,Extra Large,Fast
+484,Chevrolet,Camaro ZL1,2022,6.2,650.0,650.0,3.5,64000.0,Extra Large,Fast
+213,Lamborghini,Aventador S,2021,6.5,729.0,509.0,2.9,417650.0,Extra Large,Fast
+314,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,96950.0,Medium,Fast
+273,Mercedes-Benz,SLS AMG Black Series,2014,6.2,622.0,468.0,3.5,275000.0,Extra Large,Fast
+91,Maserati,GranTurismo,2022,4.7,454.0,384.0,4.7,134300.0,Large,Fast
+820,Jaguar,F-Type,2022,2.0,296.0,295.0,5.4,62500.0,Small,Medium
+124,Bentley,Continental GT,2021,6.0,626.0,664.0,3.6,220300.0,Large,Fast
+133,Lamborghini,Urus,2021,4.0,641.0,627.0,3.6,222004.0,Medium,Fast
+789,Porsche,Panamera Turbo S E-Hybrid,2021,4.0,689.0,642.0,3.0,190000.0,Medium,Fast
+333,Porsche,718 Cayman,2021,2.0,300.0,280.0,4.9,59900.0,Small,Fast
+275,Koenigsegg,Jesko,2021,5.0,1280.0,1015.0,2.5,3000000.0,Large,Fast
+0,Porsche,911,2022,3.0,379.0,331.0,4.0,101200.0,Medium,Fast
+994,McLaren,GT,2022,4.0,612.0,465.0,3.1,210000.0,Medium,Fast
+888,Jaguar,F-Type,2021,3.0,380.0,339.0,4.9,62750.0,Medium,Fast
+763,Lamborghini,Urus,2021,4.0,641.0,627.0,3.5,218000.0,Medium,Fast
+505,Maserati,GranTurismo,2022,4.7,454.0,384.0,4.7,150980.0,Large,Fast
+321,Aston Martin,DB11,2021,4.0,503.0,513.0,4.0,201495.0,Medium,Fast
+123,Aston Martin,DBS Superleggera,2021,5.2,715.0,664.0,3.2,304995.0,Large,Fast
+263,Dodge,Challenger SRT Hellcat,2021,6.2,717.0,656.0,3.5,62290.0,Extra Large,Fast
+764,Ferrari,Portofino M,2021,3.9,612.0,561.0,3.4,235000.0,Medium,Fast
+408,Lamborghini,Aventador S,2021,6.5,730.0,509.0,2.9,417650.0,Extra Large,Fast
+317,Nissan,370Z,2021,3.7,332.0,270.0,5.0,30000.0,Medium,Medium
+589,Porsche,Boxster,2021,2.0,300.0,280.0,4.9,62000.0,Small,Fast
+157,Bentley,Continental GT,2021,6.0,626.0,664.0,3.4,220300.0,Large,Fast
+587,Mercedes-Benz,SLS AMG,2015,6.2,583.0,479.0,3.6,221580.0,Extra Large,Fast
+477,Lotus,Evora,2021,3.5,416.0,317.0,3.8,94000.0,Medium,Fast
+886,Chevrolet,Camaro,2022,6.2,455.0,455.0,4.0,25000.0,Extra Large,Fast
+680,Mercedes-Benz,GT 63,2021,4.0,577.0,590.0,3.3,161200.0,Medium,Fast
+310,Mercedes-Benz,SLS AMG,2021,6.2,622.0,468.0,3.2,275000.0,Extra Large,Fast
+856,Audi,RS6,2022,4.0,591.0,590.0,3.5,120000.0,Medium,Fast
+358,Dodge,Challenger SRT Hellcat Redeye,2021,6.2,797.0,707.0,3.5,73000.0,Extra Large,Fast
+362,Maserati,GranTurismo,2021,4.7,454.0,384.0,4.8,132400.0,Large,Fast
+47,Audi,RS3,2022,2.5,394.0,369.0,3.9,56200.0,Medium,Fast
+303,Bugatti,Chiron,2021,8.0,1479.0,1180.0,2.3,2998000.0,Extra Large,Fast
+223,Lamborghini,Urus,2021,4.0,641.0,627.0,3.2,218009.0,Medium,Fast
+1006,Rimac,Nevera,2021,,1888.0,1696.0,1.85,2400000.0,,Fast
+811,McLaren,570S Spider,2020,3.8,562.0,443.0,3.1,208800.0,Medium,Fast
+111,Nissan,370Z,2021,3.7,332.0,270.0,4.7,31015.0,Medium,Fast
+831,Audi,RS 7 Sportback,2021,4.0,591.0,590.0,3.5,114000.0,Medium,Fast
+702,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,100000.0,Medium,Fast
+961,Mercedes-AMG,C63 S,2022,4.0,503.0,516.0,3.7,78100.0,Medium,Fast
+103,Lamborghini,Aventador,2021,6.5,770.0,531.0,2.9,522000.0,Extra Large,Fast
+514,Ultima,RS,2021,6.2,1200.0,1300.0,2.3,220000.0,Extra Large,Fast
+876,Lexus,LC 500,2021,5.0,471.0,398.0,4.4,92000.0,Large,Fast
+850,Chevrolet,Camaro SS,2021,6.2,455.0,455.0,4.1,43995.0,Extra Large,Fast
+424,Lamborghini,Aventador,2021,6.5,770.0,531.0,2.8,417650.0,Extra Large,Fast
+201,Dodge,Challenger SRT Hellcat Redeye,2022,6.2,797.0,707.0,3.5,76000.0,Extra Large,Fast
+354,Tesla,Roadster,2022,,,,1.9,200000.0,,Fast
+838,Aston Martin,DBS Superleggera,2022,5.2,715.0,664.0,3.2,329100.0,Large,Fast
+950,Lamborghini,Aventador,2021,6.5,770.0,531.0,2.9,393695.0,Extra Large,Fast
+165,McLaren,570S,2020,3.8,562.0,443.0,3.1,204550.0,Medium,Fast
+132,Porsche,Panamera Turbo S,2022,4.0,620.0,604.0,2.9,187700.0,Medium,Fast
+755,Audi,RS6 Avant,2021,4.0,591.0,590.0,3.5,109000.0,Medium,Fast
+843,Porsche,Taycan,2022,,469.0,263.0,3.8,81250.0,,Fast
+208,Audi,RS 7,2021,4.0,591.0,590.0,3.5,114000.0,Medium,Fast
+905,Ferrari,F8 Spider,2022,3.9,710.0,568.0,2.9,274390.0,Medium,Fast
+579,Bentley,Continental GT,2021,6.0,626.0,664.0,3.3,218400.0,Large,Fast
+989,Maserati,MC20,2021,3.0,621.0,538.0,2.9,210000.0,Medium,Fast
+438,Lamborghini,Sián,2021,6.5,819.0,531.0,2.8,3600000.0,Extra Large,Fast
+375,Bentley,Continental GT,2021,6.0,626.0,664.0,3.6,202500.0,Large,Fast
+907,Lamborghini,Aventador,2021,6.5,759.0,531.0,2.9,517770.0,Extra Large,Fast
+155,Acura,NSX,2021,3.5,573.0,476.0,2.7,157500.0,Medium,Fast
+153,Mercedes-Benz,AMG C63,2021,4.0,503.0,516.0,3.8,77500.0,Medium,Fast
+836,Porsche,Panamera Turbo S,2022,4.0,630.0,604.0,2.9,181100.0,Medium,Fast
+374,Aston Martin,DB11,2021,5.2,630.0,516.0,3.5,221400.0,Large,Fast
+19,Alfa Romeo,Giulia Quadrifoglio,2022,2.9,505.0,443.0,3.8,78000.0,Medium,Fast
+193,Porsche,Taycan,2022,2.0,402.0,254.0,5.1,81250.0,Small,Medium
+780,Aston Martin,Vantage,2021,4.0,503.0,505.0,3.6,142086.0,Medium,Fast
+364,Tesla,Roadster,2023,,,737.0,,200000.0,,Unknown
+915,Subaru,WRX STI,2021,2.5,310.0,290.0,5.2,38170.0,Medium,Medium
+12,Dodge,Challenger SRT Hellcat,2022,6.2,717.0,656.0,3.5,61000.0,Extra Large,Fast
+356,Aston Martin,Vantage,2021,4.0,503.0,505.0,3.5,150000.0,Medium,Fast
+25,Polestar,1,2021,2.0,600.0,738.0,4.1,155000.0,Small,Fast
+699,Aston Martin,DB11,2021,4.0,503.0,513.0,3.9,205000.0,Medium,Fast
+189,McLaren,570S,2021,3.8,562.0,443.0,3.1,191000.0,Medium,Fast
+902,Audi,RS 5,2022,2.9,444.0,443.0,3.5,75100.0,Medium,Fast
+516,Acura,NSX,2021,3.5,573.0,476.0,2.9,157500.0,Medium,Fast
+283,Bentley,Continental GT,2022,4.0,542.0,568.0,3.9,219800.0,Medium,Fast
+346,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,104200.0,Medium,Fast
+796,Nissan,370Z Nismo,2021,3.7,350.0,276.0,4.7,46000.0,Medium,Fast
+315,Maserati,GranTurismo,2022,4.7,454.0,384.0,4.8,134300.0,Large,Fast
+170,Shelby,Cobra,1965,7.0,435.0,440.0,4.2,1000000.0,Extra Large,Fast
+134,Mercedes-Benz,AMG C63,2021,4.0,469.0,479.0,3.8,71350.0,Medium,Fast
+635,Lamborghini,Aventador SVJ,2021,6.5,770.0,531.0,2.8,517770.0,Extra Large,Fast
+407,Porsche,Taycan 4S,2022,2.5,482.0,472.0,3.8,102900.0,Medium,Fast
+331,McLaren,GT,2022,4.0,612.0,465.0,3.1,215500.0,Medium,Fast
+120,BMW,M2,2022,3.0,405.0,406.0,4.2,59000.0,Medium,Fast
+526,Rimac,C_Two,2022,,1914.0,1696.0,1.9,2400000.0,,Fast
+194,Lamborghini,Aventador,2021,6.5,730.0,509.0,2.9,517700.0,Extra Large,Fast
+650,BMW,M2,2022,3.0,405.0,406.0,4.1,58900.0,Medium,Fast
+470,Alfa Romeo,Giulia Quadrifoglio,2022,2.9,505.0,443.0,3.8,80500.0,Medium,Fast
+58,Ferrari,Roma,2021,3.9,612.0,560.0,3.4,222000.0,Medium,Fast
+590,Porsche,718 Cayman,2022,2.0,300.0,280.0,4.9,61500.0,Small,Fast
+256,Ford,Mustang Mach 1,2021,5.0,480.0,420.0,4.0,52720.0,Large,Fast
+323,Lotus,Evora,2021,3.5,416.0,317.0,3.8,96950.0,Medium,Fast
+17,Maserati,GranTurismo,2021,4.7,454.0,384.0,4.8,150000.0,Large,Fast
+520,Dodge,Challenger SRT Hellcat,2021,6.2,717.0,656.0,3.5,65000.0,Extra Large,Fast
+377,Dodge,Challenger SRT Hellcat,2021,6.2,717.0,656.0,3.5,64100.0,Extra Large,Fast
+297,Mercedes-Benz,SLS AMG,2021,4.0,577.0,516.0,3.6,247500.0,Medium,Fast
+540,Tesla,Model S Plaid,2022,,1020.0,1050.0,1.98,139990.0,,Fast
+946,Porsche,Panamera GTS,2021,4.0,473.0,457.0,3.9,134150.0,Medium,Fast
+216,McLaren,600LT,2021,3.8,592.0,457.0,2.9,256500.0,Medium,Fast
+990,Porsche,Cayman,2021,2.0,300.0,280.0,5.1,59900.0,Small,Medium
+859,Mercedes-Benz,AMG A45,2021,2.0,382.0,354.0,4.0,50000.0,Small,Fast
+471,Jaguar,F-Type R,2021,5.0,575.0,516.0,3.5,105900.0,Large,Fast
+97,Rimac,Nevera,2022,,1914.0,1696.0,1.95,2400000.0,,Fast
+202,Ford,GT,2022,3.5,660.0,550.0,2.9,500000.0,Medium,Fast
+349,Mercedes-Benz,AMG C63,2022,4.0,503.0,516.0,3.8,69900.0,Medium,Fast
+564,Nissan,370Z Nismo,2020,3.7,350.0,276.0,5.0,46815.0,Medium,Medium
+688,Porsche,918 Spyder,2015,4.6,887.0,944.0,2.2,1800000.0,Large,Fast
+611,Audi,RS 7,2022,4.0,591.0,590.0,3.5,117000.0,Medium,Fast
+603,Porsche,Panamera,2022,2.9,325.0,331.0,5.2,88550.0,Medium,Medium
+858,BMW,M4,2022,3.0,503.0,479.0,3.8,74000.0,Medium,Fast
+670,Mercedes-Benz,SLS AMG,2021,6.2,622.0,468.0,3.5,243600.0,Extra Large,Fast
+5,BMW,M8,2022,4.4,617.0,553.0,3.1,130000.0,Large,Fast
+983,Bugatti,Chiron,2022,8.0,1500.0,1180.0,2.5,3900000.0,Extra Large,Fast
+45,Lamborghini,Aventador SVJ,2021,6.5,759.0,531.0,2.8,518000.0,Extra Large,Fast
+663,Ford,Mustang GT,2022,5.0,460.0,420.0,4.0,45000.0,Large,Fast
+707,Dodge,Challenger,2022,3.6,305.0,268.0,6.4,28000.0,Medium,Medium
+191,Mercedes-Benz,AMG C 63,2021,4.0,469.0,479.0,3.9,69900.0,Medium,Fast
+16,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,104450.0,Medium,Fast
+49,BMW,M4,2022,3.0,503.0,479.0,3.8,71800.0,Medium,Fast
+954,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,100500.0,Medium,Fast
+899,Porsche,Cayman,2022,2.0,300.0,280.0,4.5,59900.0,Small,Fast
+3,Audi,R8,2022,5.2,562.0,406.0,3.2,142700.0,Large,Fast
+885,Tesla,Roadster,2022,0.0,,,1.9,200000.0,,Fast
+531,Ford,GT,2021,3.5,647.0,550.0,3.0,500000.0,Medium,Fast
+370,Ferrari,Portofino,2021,3.9,591.0,560.0,3.5,218750.0,Medium,Fast
+998,Ford,Mustang,2021,2.3,310.0,350.0,5.3,27205.0,Medium,Medium
+326,Bentley,Continental GT,2021,6.0,626.0,664.0,3.3,202500.0,Large,Fast
+99,Tesla,Roadster,2022,,,737.0,1.9,200000.0,,Fast
+328,Koenigsegg,Jesko,2022,5.0,1280.0,1015.0,2.5,3000000.0,Large,Fast
+698,Mercedes-AMG,GT Black Series,2021,4.0,720.0,590.0,3.1,330000.0,Medium,Fast
+259,Lamborghini,Urus,2021,4.0,641.0,627.0,3.2,222004.0,Medium,Fast
+26,Rimac,Nevera,2022,,1914.0,1696.0,1.85,2400000.0,,Fast
+790,Lamborghini,Aventador SVJ,2021,6.5,759.0,531.0,2.8,517000.0,Extra Large,Fast
+305,Porsche,Taycan Turbo S,2021,,750.0,774.0,2.6,185000.0,,Fast
+51,Chevrolet,Camaro SS,2021,6.2,455.0,455.0,4.1,42500.0,Extra Large,Fast
+435,Koenigsegg,Jesko,2021,5.0,1262.0,1106.0,2.5,3000000.0,Large,Fast
+264,Aston Martin,DBS Superleggera,2021,5.2,715.0,663.0,3.2,304995.0,Large,Fast
+37,Porsche,Taycan 4S,2022,,562.0,479.0,3.8,104000.0,,Fast
+173,TVR,Griffith,2022,5.0,500.0,479.0,3.8,123500.0,Large,Fast
+274,Bugatti,Chiron,2021,8.0,1500.0,1180.0,2.4,2998000.0,Extra Large,Fast
+948,BMW,M4,2021,3.0,473.0,406.0,3.8,71800.0,Medium,Fast
+445,BMW,Z4 M40i,2022,3.0,382.0,369.0,4.3,63700.0,Medium,Fast
+441,Lamborghini,Aventador,2021,6.5,770.0,531.0,2.8,393695.0,Extra Large,Fast
+196,Audi,RS 6 Avant,2021,4.0,591.0,590.0,3.5,109000.0,Medium,Fast
+821,Tesla,Roadster,2022,,1000.0,737.0,1.9,200000.0,,Fast
+721,McLaren,GT,2022,4.0,620.0,465.0,3.1,208000.0,Medium,Fast
+691,Audi,RS 6 Avant,2021,4.0,591.0,590.0,3.5,110000.0,Medium,Fast
+222,Porsche,Taycan Turbo S,2021,4.0,750.0,774.0,2.6,185000.0,Medium,Fast
+824,Rimac,Nevera,2021,,1914.0,1696.0,1.85,2400000.0,,Fast
+837,Lamborghini,Aventador S,2021,6.5,730.0,507.0,2.9,417826.0,Extra Large,Fast
+557,Audi,RS 6 Avant,2022,4.0,591.0,590.0,3.1,110045.0,Medium,Fast
+638,Nissan,400Z,2023,3.0,400.0,350.0,4.0,40000.0,Medium,Fast
+640,Rimac,Nevera,2021,,1914.0,1696.0,1.9,2400000.0,,Fast
+953,Aston Martin,DBS Superleggera,2022,5.2,715.0,663.0,3.4,321000.0,Large,Fast
+802,Dodge,Challenger SRT Hellcat,2021,6.2,717.0,656.0,3.5,64000.0,Extra Large,Fast
+833,Mercedes-Benz,C63 S AMG,2022,4.0,503.0,516.0,3.9,77600.0,Medium,Fast
+68,Jaguar,F-Type,2022,2.0,296.0,295.0,5.4,62750.0,Small,Medium
+588,Nissan,370Z Nismo,2020,3.7,350.0,276.0,4.7,47190.0,Medium,Fast
+188,Audi,RS 3,2022,2.5,401.0,354.0,3.5,56000.0,Medium,Fast
+542,McLaren,Senna,2020,4.0,789.0,590.0,2.7,1500000.0,Medium,Fast
+944,Mercedes-Benz,AMG C63,2022,4.0,469.0,479.0,3.8,71450.0,Medium,Fast
+178,Audi,RS 6,2021,4.0,591.0,590.0,3.5,109000.0,Medium,Fast
+361,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,104970.0,Medium,Fast
+220,Dodge,Challenger SRT Hellcat,2022,6.2,717.0,656.0,3.5,69995.0,Extra Large,Fast
+654,Nissan,370Z Nismo,2021,3.7,350.0,276.0,4.8,45000.0,Medium,Fast
+436,Pagani,Huayra,2021,6.0,764.0,738.0,2.6,2600000.0,Large,Fast
+455,Audi,TT RS,2022,2.5,394.0,354.0,3.6,69900.0,Medium,Fast
+882,Aston Martin,DB11,2021,4.0,630.0,516.0,3.7,198995.0,Medium,Fast
+669,BMW,M4,2022,3.0,473.0,406.0,4.1,71800.0,Medium,Fast
+168,Rimac,C_Two,2022,4.0,1914.0,1696.0,1.9,2400000.0,Medium,Fast
+633,Dodge,Challenger Hellcat,2021,6.2,717.0,656.0,3.5,64000.0,Extra Large,Fast
+624,Bugatti,Chiron Pur Sport,2021,8.0,1500.0,1180.0,2.3,3599000.0,Extra Large,Fast
+260,Ferrari,SF90 Stradale,2022,4.0,986.0,590.0,2.5,625000.0,Medium,Fast
+788,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,98395.0,Medium,Fast
+771,Lamborghini,Aventador SVJ,2020,6.5,759.0,531.0,2.8,573966.0,Extra Large,Fast
+107,BMW,M4,2022,3.0,503.0,479.0,3.8,75000.0,Medium,Fast
+508,Porsche,Cayman GT4,2022,4.0,414.0,309.0,4.2,102000.0,Medium,Fast
+504,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,104400.0,Medium,Fast
+945,Nissan,370Z Nismo,2021,3.7,350.0,276.0,4.9,47820.0,Medium,Fast
+713,Nissan,370Z,2021,3.7,350.0,276.0,5.3,30090.0,Medium,Medium
+76,BMW,M4,2022,3.0,473.0,406.0,4.1,72800.0,Medium,Fast
+122,Lamborghini,Aventador,2021,6.5,730.0,509.0,2.9,417826.0,Extra Large,Fast
+488,McLaren,570S,2022,3.8,562.0,443.0,3.1,198950.0,Medium,Fast
+952,Mercedes-Benz,AMG GT 4-Door Coupe,2021,4.0,630.0,664.0,3.1,171200.0,Medium,Fast
+126,Mercedes-Benz,SLS AMG,2021,6.2,622.0,468.0,3.7,239100.0,Extra Large,Fast
+54,Aston Martin,Vantage,2021,4.0,503.0,505.0,3.5,142100.0,Medium,Fast
+167,Porsche,Cayman GT4,2022,4.0,414.0,309.0,4.2,102900.0,Medium,Fast
+482,Audi,RS5 Coupe,2022,2.9,444.0,443.0,3.7,76450.0,Medium,Fast
+928,Aston Martin,DB11,2022,4.0,630.0,516.0,3.7,201495.0,Medium,Fast
+236,Alfa Romeo,4C,2020,1.7,237.0,258.0,4.1,67150.0,Small,Fast
+618,Aston Martin,DBS Superleggera,2021,5.2,715.0,664.0,3.2,307820.0,Large,Fast
+662,Dodge,Challenger SRT Hellcat,2021,6.2,717.0,656.0,3.5,63000.0,Extra Large,Fast
+631,Bugatti,Chiron,2021,8.0,1500.0,1180.0,2.5,3000000.0,Extra Large,Fast
+797,Porsche,718 Cayman GT4,2022,4.0,414.0,309.0,4.2,102000.0,Medium,Fast
+8,Ford,Mustang Shelby GT500,2022,5.2,760.0,625.0,3.5,81000.0,Large,Fast
+777,Chevrolet,Camaro SS Convertible,2022,6.2,455.0,455.0,4.0,49000.0,Extra Large,Fast
+36,Nissan,370Z Nismo,2021,3.7,350.0,276.0,4.5,45690.0,Medium,Fast
+560,Mercedes-Benz,AMG C 63 S,2021,4.0,503.0,516.0,3.7,77400.0,Medium,Fast
+151,McLaren,GT,2021,4.0,612.0,465.0,3.2,200000.0,Medium,Fast
+293,Chevrolet,Camaro ZL1,2022,6.2,650.0,650.0,3.5,69000.0,Extra Large,Fast
+353,Rolls-Royce,Wraith,2021,6.7,624.0,605.0,4.4,338000.0,Extra Large,Fast
+705,Alfa Romeo,4C,2020,1.8,237.0,258.0,4.2,67150.0,Small,Fast
+712,Mercedes-Benz,AMG C 63,2021,4.0,469.0,479.0,3.8,69900.0,Medium,Fast
+439,Rimac,C_Two,2021,,1914.0,1732.0,1.8,2400000.0,,Fast
+60,McLaren,600LT,2021,3.8,592.0,457.0,2.8,241000.0,Medium,Fast
+117,Lamborghini,Urus,2021,4.0,641.0,627.0,3.6,222000.0,Medium,Fast
+666,Ferrari,Roma,2022,3.9,612.0,560.0,3.3,222630.0,Medium,Fast
+779,Nissan,370Z Coupe,2020,3.7,332.0,270.0,5.0,30090.0,Medium,Medium
+867,McLaren,GT,2021,4.0,612.0,465.0,3.1,201500.0,Medium,Fast
+304,McLaren,570S,2021,3.8,562.0,443.0,3.1,202500.0,Medium,Fast
+815,Ford,Mustang GT,2022,5.0,460.0,420.0,4.5,43000.0,Large,Fast
+345,Lexus,LC,2021,5.0,471.0,398.0,4.4,92950.0,Large,Fast
+597,Chevrolet,Camaro,2021,6.2,455.0,455.0,4.0,25000.0,Extra Large,Fast
+498,Bentley,Continental GT,2022,6.0,626.0,664.0,3.3,214425.0,Large,Fast
+166,Pagani,Huayra,2020,6.0,720.0,738.0,3.0,2700000.0,Large,Fast
+525,Porsche,Taycan,2021,,616.0,774.0,2.6,185000.0,,Fast
+758,Mercedes-Benz,AMG GT R,2021,4.0,577.0,516.0,3.5,180000.0,Medium,Fast
+536,Alfa Romeo,4C Spider,2020,1.8,237.0,258.0,4.1,68745.0,Small,Fast
+937,Dodge,Charger SRT Hellcat,2022,6.2,717.0,650.0,3.5,78595.0,Extra Large,Fast
+308,Audi,RS 7,2022,4.0,591.0,590.0,3.5,114000.0,Medium,Fast
+845,Ferrari,Roma,2021,3.9,611.0,560.0,3.3,222620.0,Medium,Fast
+427,McLaren,600LT Spider,2021,3.8,592.0,457.0,2.8,256500.0,Medium,Fast
+864,Bugatti,Chiron,2022,8.0,1479.0,1180.0,2.4,2900000.0,Extra Large,Fast
+38,Lamborghini,Urus,2021,4.0,641.0,626.0,3.5,218000.0,Medium,Fast
+135,Aston Martin,Vantage,2021,4.0,503.0,505.0,3.6,146000.0,Medium,Fast
+510,Rolls-Royce,Wraith,2021,6.8,624.0,605.0,4.4,335550.0,Extra Large,Fast
+500,Dodge,Challenger SRT Hellcat,2022,6.2,717.0,656.0,3.5,71490.0,Extra Large,Fast
+622,Tesla,Model S Plaid,2022,,1020.0,1050.0,1.98,131190.0,,Fast
+163,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,105950.0,Medium,Fast
+160,Jaguar,F-Type,2022,3.0,380.0,339.0,4.9,69900.0,Medium,Fast
+686,Rimac,C_Two,2022,4.0,1914.0,1696.0,1.85,2400000.0,Medium,Fast
+912,Mercedes-Benz,AMG C 63,2021,4.0,469.0,479.0,3.8,67600.0,Medium,Fast
+704,Porsche,Boxster,2022,2.0,300.0,280.0,4.9,63000.0,Small,Fast
+414,Dodge,Charger Hellcat,2021,6.2,717.0,650.0,3.6,71490.0,Extra Large,Fast
+580,BMW,M5,2021,4.4,600.0,553.0,3.2,103500.0,Large,Fast
+384,Mercedes-AMG,C 63 S,2022,4.0,503.0,516.0,3.7,81550.0,Medium,Fast
+211,Jaguar,F-Type,2022,5.0,575.0,516.0,3.5,103200.0,Large,Fast
+131,Ferrari,Portofino,2021,3.9,592.0,560.0,3.5,219750.0,Medium,Fast
+823,Bugatti,Chiron Super Sport 300+,2021,8.0,1578.0,1180.0,2.4,5200000.0,Extra Large,Fast
+156,Aston Martin,DB11,2022,4.0,503.0,513.0,3.7,204100.0,Medium,Fast
+940,Ford,Mustang GT,2022,5.0,460.0,420.0,4.0,38500.0,Large,Fast
+225,Audi,R8 Spyder,2022,5.2,562.0,406.0,3.5,183300.0,Large,Fast
+322,Dodge,Challenger Hellcat Redeye,2022,6.2,797.0,707.0,3.4,82190.0,Extra Large,Fast
+339,Aston Martin,DB11,2021,5.2,630.0,516.0,3.7,209000.0,Large,Fast
+478,Alfa Romeo,4C Spider,2020,1.7,237.0,258.0,4.1,67150.0,Small,Fast
+130,Dodge,Challenger SRT Hellcat,2021,6.2,717.0,656.0,3.5,65290.0,Extra Large,Fast
+206,Bugatti,Chiron,2021,8.0,1500.0,1180.0,2.3,3000000.0,Extra Large,Fast
+231,Bentley,Continental GT,2022,6.0,626.0,664.0,3.5,203825.0,Large,Fast
+532,Aston Martin,DBS Superleggera,2021,5.2,715.0,664.0,3.4,307820.0,Large,Fast
+284,Dodge,Challenger SRT Hellcat,2022,6.2,717.0,656.0,3.5,70000.0,Extra Large,Fast
+499,Bugatti,Chiron,2022,8.0,1500.0,1180.0,2.3,3000000.0,Extra Large,Fast
+863,Bentley,Continental GT,2021,4.0,542.0,568.0,3.3,202500.0,Medium,Fast
+138,Lamborghini,Aventador,2021,6.5,730.0,507.0,2.8,517770.0,Extra Large,Fast
+480,Maserati,GranTurismo,2021,4.7,454.0,384.0,4.7,134300.0,Large,Fast
+887,Dodge,Charger,2021,6.2,797.0,707.0,3.3,72000.0,Extra Large,Fast
+736,Audi,TT RS,2022,2.5,394.0,354.0,3.6,67800.0,Medium,Fast
+251,Audi,RS7,2021,4.0,591.0,590.0,3.5,114000.0,Medium,Fast
+894,Mercedes-Benz,SLS AMG,2021,6.2,622.0,468.0,3.6,254995.0,Extra Large,Fast
+715,BMW,i8,2022,1.5,369.0,184.0,4.2,147500.0,Small,Fast
+897,Bentley,Continental GT,2021,4.0,542.0,568.0,3.9,220000.0,Medium,Fast
+729,Ferrari,Portofino,2022,3.9,591.0,561.0,3.4,250000.0,Medium,Fast
+458,Porsche,718 Cayman,2022,2.0,300.0,280.0,4.9,60500.0,Small,Fast
+956,McLaren,570S,2021,3.8,562.0,443.0,3.1,195000.0,Medium,Fast
+656,Aston Martin,DBS Superleggera,2021,5.2,715.0,663.0,3.2,305000.0,Large,Fast
+309,BMW,M2 CS,2022,3.0,444.0,406.0,4.0,84595.0,Medium,Fast
+537,Subaru,WRX STI,2022,2.5,310.0,290.0,5.2,38170.0,Medium,Medium
+632,Chevrolet,Camaro ZL1,2022,6.2,650.0,650.0,3.5,67000.0,Extra Large,Fast
+119,Audi,RS7,2021,4.0,591.0,590.0,3.5,115000.0,Medium,Fast
+269,Audi,RS 5 Coupe,2021,2.9,444.0,443.0,3.7,75100.0,Medium,Fast
+844,Lamborghini,Aventador,2021,6.5,730.0,509.0,2.9,517000.0,Extra Large,Fast
+444,McLaren,GT,2021,4.0,620.0,465.0,3.1,210000.0,Medium,Fast
+270,Chevrolet,Camaro ZL1,2021,6.2,650.0,650.0,3.5,64195.0,Extra Large,Fast
+933,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,99000.0,Medium,Fast
+371,Jaguar,F-Type,2022,3.0,296.0,295.0,5.4,61600.0,Medium,Medium
+492,Lamborghini,Aventador S,2021,6.5,729.0,507.0,2.9,417826.0,Extra Large,Fast
+875,Jaguar,F-Type,2021,3.0,380.0,339.0,4.4,62750.0,Medium,Fast
+426,Audi,TT RS,2022,2.5,394.0,354.0,3.6,69000.0,Medium,Fast
+300,Tesla,Model S,2022,,1020.0,1050.0,1.98,119000.0,,Fast
+325,Alfa Romeo,Giulia Quadrifoglio,2021,2.9,505.0,443.0,3.8,76950.0,Medium,Fast
+447,Chevrolet,Camaro SS,2022,6.2,455.0,455.0,4.3,42500.0,Extra Large,Fast
+456,McLaren,570S,2021,3.8,562.0,443.0,2.9,208800.0,Medium,Fast
+258,Porsche,Panamera Turbo,2022,4.0,620.0,604.0,3.1,174300.0,Medium,Fast
+939,Chevrolet,Camaro SS,2022,6.2,455.0,455.0,4.1,37500.0,Extra Large,Fast
+783,Dodge,Challenger SRT Hellcat,2022,6.2,717.0,656.0,3.5,68000.0,Extra Large,Fast
+592,Ferrari,Roma,2021,3.9,612.0,561.0,3.3,222630.0,Medium,Fast
+413,Chevrolet,Camaro SS,2022,6.2,455.0,455.0,4.1,42000.0,Extra Large,Fast
+643,Toyota,Supra,2021,3.0,382.0,368.0,3.9,43000.0,Medium,Fast
+988,Pininfarina,Battista,2021,,1872.0,1696.0,1.9,2500000.0,,Fast
+970,Ford,Mustang Mach 1,2021,5.0,480.0,420.0,4.0,52915.0,Large,Fast
+926,Nissan,370Z,2021,3.7,332.0,270.0,5.3,33000.0,Medium,Medium
+826,Chevrolet,Camaro ZL1,2022,6.2,650.0,650.0,3.5,63000.0,Extra Large,Fast
+816,Dodge,Challenger R/T,2021,5.7,372.0,400.0,5.1,35000.0,Large,Medium
+735,Ferrari,Portofino,2022,3.9,612.0,561.0,3.3,245000.0,Medium,Fast
+773,Audi,TT RS Coupe,2022,2.5,394.0,354.0,3.5,68000.0,Medium,Fast
+87,Jaguar,F-Type,2022,3.0,380.0,339.0,4.9,71900.0,Medium,Fast
+280,Pininfarina,Battista,2022,,1874.0,1696.0,1.9,2500000.0,,Fast
+175,Porsche,718 Cayman,2021,2.0,300.0,280.0,4.5,61500.0,Small,Fast
+685,Pagani,Huayra,2021,6.0,764.0,737.0,3.0,2600000.0,Large,Fast
+35,Ford,GT,2022,3.5,660.0,550.0,3.0,500000.0,Medium,Fast
+706,Chevrolet,Camaro,2022,6.2,455.0,455.0,4.0,62195.0,Extra Large,Fast
+190,BMW,M5,2022,4.4,600.0,553.0,3.2,104000.0,Large,Fast
+995,BMW,M2,2021,3.0,405.0,406.0,4.0,58900.0,Medium,Fast
+817,Aston Martin,Vantage,2021,4.0,503.0,505.0,3.6,151000.0,Medium,Fast
+927,Alfa Romeo,Giulia Quadrifoglio,2021,2.9,505.0,443.0,3.8,75250.0,Medium,Fast
+98,Rolls-Royce,Wraith,2021,6.8,624.0,605.0,4.4,330000.0,Extra Large,Fast
+749,Aston Martin,Vantage,2022,4.0,503.0,505.0,3.5,152995.0,Medium,Fast
+278,Rimac,C_Two,2022,,1914.0,1732.0,1.85,2400000.0,,Fast
+768,Mercedes-Benz,SLS AMG Black Series,2021,6.2,622.0,468.0,3.5,335000.0,Extra Large,Fast
+574,Porsche,Cayman GT4,2022,4.0,414.0,309.0,4.2,100200.0,Medium,Fast
+730,Audi,TT RS,2022,2.5,394.0,354.0,3.6,70000.0,Medium,Fast
+852,Nissan,370Z Nismo,2021,3.7,350.0,276.0,4.8,46610.0,Medium,Fast
+235,Porsche,Cayman GT4,2021,4.0,414.0,309.0,4.2,100200.0,Medium,Fast
+468,Dodge,Challenger SRT Hellcat,2021,6.2,717.0,656.0,3.6,71000.0,Extra Large,Fast
+473,Maserati,GranTurismo,2019,4.7,454.0,384.0,4.7,150980.0,Large,Fast
+819,Alfa Romeo,4C Spider,2020,1.7,237.0,258.0,4.1,69000.0,Small,Fast
+249,Lamborghini,Aventador,2021,6.5,729.0,507.0,2.9,393695.0,Extra Large,Fast
+4,McLaren,720S,2021,4.0,710.0,568.0,2.7,298000.0,Medium,Fast
+873,Dodge,Challenger SRT Hellcat Redeye,2022,6.2,797.0,707.0,3.5,80190.0,Extra Large,Fast
+718,Lamborghini,Aventador S,2021,6.5,729.0,507.0,2.9,417650.0,Extra Large,Fast
+101,W Motors,Fenyr Supersport,2022,3.8,800.0,723.0,2.7,1700000.0,Medium,Fast
+765,Audi,TT RS,2022,2.5,394.0,354.0,3.6,67600.0,Medium,Fast
+486,Ford,GT,2021,3.5,647.0,550.0,2.8,500000.0,Medium,Fast
+639,Porsche,Cayman GT4,2021,4.0,414.0,309.0,4.2,101000.0,Medium,Fast
+48,McLaren,570S,2021,3.8,562.0,443.0,2.8,192500.0,Medium,Fast
+32,BMW,M4,2022,3.0,503.0,479.0,3.8,72800.0,Medium,Fast
+229,Chevrolet,Corvette Stingray,2021,6.2,495.0,470.0,2.9,60995.0,Extra Large,Fast
+146,Nissan,370Z Nismo,2021,3.7,350.0,276.0,4.9,45790.0,Medium,Fast
+27,Porsche,Cayman GT4,2022,4.0,414.0,309.0,3.8,100200.0,Medium,Fast
+855,Ferrari,SF90 Stradale,2021,,986.0,590.0,2.5,625000.0,,Fast
+266,Lexus,LC 500,2022,5.0,471.0,398.0,4.4,93050.0,Large,Fast
+623,Rolls-Royce,Dawn,2021,6.6,563.0,605.0,4.3,346300.0,Extra Large,Fast
+449,Nissan,370Z Nismo,2020,3.7,350.0,276.0,4.6,45790.0,Medium,Fast
+332,Mercedes-AMG,C 63 S Coupe,2022,4.0,503.0,516.0,3.7,80900.0,Medium,Fast
+502,Koenigsegg,Jesko,2021,5.0,1280.0,1106.0,2.5,2800000.0,Large,Fast
+467,Nissan,370Z Nismo,2020,3.7,350.0,276.0,5.2,46200.0,Medium,Medium
+794,Chevrolet,Camaro ZL1,2021,6.2,650.0,650.0,3.5,64500.0,Extra Large,Fast
+634,Ferrari,812 Superfast,2021,6.5,789.0,530.0,2.8,340000.0,Extra Large,Fast
+150,Audi,RS 3,2022,2.5,401.0,369.0,3.6,56200.0,Medium,Fast
+63,Audi,RS5,2021,2.9,444.0,443.0,3.6,75400.0,Medium,Fast
+591,Lamborghini,Aventador,2021,6.5,759.0,531.0,2.9,393695.0,Extra Large,Fast
+137,Porsche,Cayman,2022,2.5,365.0,309.0,4.5,68900.0,Medium,Fast
+963,Dodge,Charger Hellcat,2021,6.2,717.0,650.0,3.6,70000.0,Extra Large,Fast
+673,Nissan,370Z Nismo,2021,3.7,350.0,276.0,5.0,47190.0,Medium,Medium
+65,Chevrolet,Camaro SS,2021,6.2,455.0,455.0,4.0,42900.0,Extra Large,Fast
+14,Koenigsegg,Jesko,2021,5.0,1280.0,1015.0,2.5,2800000.0,Large,Fast
+172,Toyota,GR Supra,2022,3.0,382.0,368.0,3.9,43090.0,Medium,Fast
+40,Audi,RS3,2022,2.5,394.0,369.0,3.9,57000.0,Medium,Fast
+626,Porsche,Panamera Turbo S E-Hybrid,2021,,690.0,641.0,3.0,186350.0,,Fast
+450,Aston Martin,Vantage,2022,4.0,503.0,505.0,3.6,146000.0,Medium,Fast
+212,Porsche,Panamera Turbo S,2021,4.0,620.0,604.0,2.9,177700.0,Medium,Fast
+248,Porsche,Cayman GT4,2021,4.0,414.0,309.0,4.2,102000.0,Medium,Fast
+53,Nissan,370Z Nismo,2021,3.7,350.0,276.0,4.8,46100.0,Medium,Fast
+402,Audi,RS 5,2021,2.9,444.0,443.0,3.5,75100.0,Medium,Fast
+342,Dodge,Challenger Hellcat,2022,6.2,717.0,656.0,3.5,67500.0,Extra Large,Fast
+289,Porsche,718 Cayman GT4,2022,4.0,414.0,309.0,4.2,102550.0,Medium,Fast
+577,Alfa Romeo,Giulia Quadrifoglio,2021,2.9,505.0,443.0,3.8,74750.0,Medium,Fast
+567,Chevrolet,Corvette Z06,2023,5.5,625.0,650.0,2.6,85000.0,Large,Fast
+1003,Lotus,Evija,2021,,1972.0,1254.0,2.0,2000000.0,,Fast
+311,Chevrolet,Camaro ZL1,2021,6.2,650.0,650.0,3.5,63000.0,Extra Large,Fast
+230,Aston Martin,DB11,2022,5.2,630.0,516.0,3.5,207000.0,Large,Fast
+177,Ferrari,SF90 Stradale,2022,4.0,986.0,590.0,2.5,507000.0,Medium,Fast
+732,BMW,i8,2022,,369.0,184.0,4.2,148500.0,,Fast
+479,Jaguar,F-Type,2022,3.0,380.0,339.0,4.9,70900.0,Medium,Fast
+596,Mercedes-Benz,SL,2022,3.0,429.0,384.0,4.9,96250.0,Medium,Fast
+109,Chevrolet,Camaro ZL1,2021,6.2,650.0,650.0,3.5,64000.0,Extra Large,Fast
+751,Lexus,LC 500,2022,5.0,471.0,398.0,4.4,102550.0,Large,Fast
+462,McLaren,GT,2021,4.0,612.0,465.0,3.2,208800.0,Medium,Fast
+1,Lamborghini,Huracan,2021,5.2,630.0,443.0,2.8,274390.0,Large,Fast
+918,Lamborghini,Aventador,2021,6.5,729.0,509.0,2.9,393695.0,Extra Large,Fast
+743,Porsche,911 Turbo S,2022,3.8,640.0,590.0,2.6,208000.0,Medium,Fast
+82,Acura,NSX,2022,3.5,573.0,476.0,2.9,159495.0,Medium,Fast
+234,Lotus,Evora GT,2021,3.5,416.0,317.0,3.7,99800.0,Medium,Fast
+34,Chevrolet,Camaro ZL1,2021,6.2,650.0,650.0,3.5,64695.0,Extra Large,Fast
+655,Dodge,Charger Hellcat,2021,6.2,707.0,650.0,3.6,69995.0,Extra Large,Fast
+515,W Motors,Fenyr SuperSport,2022,3.8,800.0,723.0,2.7,1550000.0,Medium,Fast
+566,Audi,TT RS,2021,2.5,394.0,354.0,3.6,67895.0,Medium,Fast
+437,McLaren,Speedtail,2021,4.0,1035.0,848.0,2.5,2300000.0,Medium,Fast
+94,Mercedes-Benz,SLS AMG,2015,6.2,622.0,468.0,3.7,221580.0,Extra Large,Fast
+405,Dodge,Viper ACR,2017,8.4,645.0,600.0,3.3,126190.0,Extra Large,Fast
+750,Ferrari,F8 Spider,2021,3.9,710.0,568.0,2.9,274280.0,Medium,Fast
+411,Audi,RS7 Sportback,2022,4.0,591.0,590.0,3.5,115045.0,Medium,Fast
+279,Pagani,Huayra Roadster BC,2021,6.0,791.0,774.0,2.5,3500000.0,Large,Fast
+13,Jaguar,F-Type,2022,3.0,296.0,295.0,5.4,70100.0,Medium,Medium
+369,Dodge,Viper,2017,8.4,645.0,600.0,3.3,118795.0,Extra Large,Fast
+810,Audi,RS 5,2022,2.9,444.0,443.0,3.5,76700.0,Medium,Fast
+459,Lamborghini,Aventador,2021,6.5,730.0,509.0,2.9,393695.0,Extra Large,Fast
+316,McLaren,765LT,2021,4.0,755.0,590.0,2.8,358000.0,Medium,Fast
+185,Porsche,Taycan,2021,,750.0,774.0,2.6,185000.0,,Fast
+996,Mercedes-Benz,SLS AMG,2021,6.3,622.0,468.0,3.6,254500.0,Extra Large,Fast
+881,Porsche,Taycan,2021,2.0,402.0,254.0,5.1,81250.0,Small,Medium
+617,Nissan,370Z Nismo,2021,3.7,350.0,276.0,5.0,48000.0,Medium,Medium
+967,Porsche,Panamera Turbo S E-Hybrid,2021,,689.0,642.0,3.0,190000.0,,Fast
+642,Tesla,Model S Plaid,2021,,1020.0,590.0,1.9,139990.0,,Fast
+281,Acura,NSX,2022,3.5,573.0,476.0,2.9,157500.0,Medium,Fast
+752,Porsche,Taycan,2022,4.0,469.0,479.0,3.8,79900.0,Medium,Fast
+747,BMW,M5 Competition,2022,4.4,617.0,553.0,3.1,103500.0,Large,Fast
+215,Audi,RS7,2022,4.0,591.0,590.0,3.5,115045.0,Medium,Fast
+595,BMW,M2,2022,3.0,405.0,406.0,4.2,58900.0,Medium,Fast
+936,Aston Martin,Vantage,2022,4.0,503.0,505.0,3.5,149995.0,Medium,Fast
+657,Alfa Romeo,Giulia Quadrifoglio,2021,2.9,505.0,443.0,3.8,75000.0,Medium,Fast
+59,Audi,S5,2022,3.0,349.0,369.0,4.4,52500.0,Medium,Fast
+594,McLaren,570S,2020,3.8,562.0,443.0,3.1,208000.0,Medium,Fast
+740,Chevrolet,Camaro SS,2022,6.2,455.0,455.0,4.0,43995.0,Extra Large,Fast
+290,Alfa Romeo,Giulia Quadrifoglio,2021,2.9,505.0,443.0,3.8,76400.0,Medium,Fast
+21,Bentley,Continental GT,2021,6.0,626.0,664.0,3.6,225000.0,Large,Fast
+365,Alpine,A110,2021,1.8,288.0,236.0,4.4,71500.0,Small,Fast
+571,Bugatti,Chiron,2021,8.0,1479.0,1180.0,2.5,3000000.0,Extra Large,Fast
+176,Lamborghini,Aventador SVJ,2021,6.5,770.0,531.0,2.8,518000.0,Extra Large,Fast
+319,Porsche,Panamera Turbo S,2021,4.0,620.0,604.0,2.9,180000.0,Medium,Fast
+217,BMW,M2 Competition,2022,3.0,405.0,406.0,4.0,59895.0,Medium,Fast
+457,BMW,M4,2022,3.0,473.0,406.0,4.0,72800.0,Medium,Fast
+497,Aston Martin,DBS Superleggera,2022,5.2,715.0,664.0,3.4,314500.0,Large,Fast
+625,McLaren,Senna,2019,4.0,789.0,590.0,2.7,1050000.0,Medium,Fast
+409,Aston Martin,DB11,2021,5.2,630.0,516.0,3.5,205000.0,Large,Fast
+359,Jaguar,F-Type R,2022,5.0,575.0,516.0,3.5,103200.0,Large,Fast
+906,Jaguar,F-Type,2021,3.0,296.0,295.0,5.4,64700.0,Medium,Medium
+139,Ferrari,F8 Tributo,2022,3.9,710.0,568.0,2.9,276550.0,Medium,Fast
+909,Lotus,Evora GT,2021,3.5,416.0,317.0,3.8,99990.0,Medium,Fast
+102,Porsche,718 Cayman,2022,2.0,300.0,280.0,4.7,60500.0,Small,Fast
+443,Audi,RS 5,2022,2.9,444.0,443.0,3.7,75100.0,Medium,Fast
+89,Lexus,LC 500,2022,5.0,471.0,398.0,4.4,92950.0,Large,Fast
+570,Ferrari,Portofino M,2022,3.9,612.0,560.0,3.5,245000.0,Medium,Fast
+389,Tesla,Roadster,2022,4.0,,0.0,1.9,200000.0,Medium,Fast
+246,Subaru,WRX STI,2021,2.5,310.0,290.0,4.6,38170.0,Medium,Fast
+586,McLaren,570S,2021,3.8,562.0,443.0,3.1,203500.0,Medium,Fast
+129,Chevrolet,Camaro ZL1,2021,6.2,650.0,650.0,3.5,62500.0,Extra Large,Fast
+828,Alfa Romeo,Giulia Quadrifoglio,2022,2.9,505.0,443.0,3.8,83250.0,Medium,Fast
+20,Ariel,Atom,2021,2.0,320.0,243.0,2.8,75000.0,Small,Fast
+965,Tesla,Model S Plaid,2022,,,,1.9,141190.0,,Fast
+73,Nissan,370Z,2021,3.7,332.0,270.0,5.0,30090.0,Medium,Medium
+110,Ford,GT,2022,3.5,660.0,550.0,2.8,500000.0,Medium,Fast
+313,Jaguar,F-Type,2021,5.0,575.0,516.0,3.5,103200.0,Large,Fast
+527,Tesla,Model S Plaid,2022,,1020.0,1050.0,1.98,140000.0,,Fast
+106,McLaren,GT,2021,4.0,612.0,465.0,3.1,212500.0,Medium,Fast
